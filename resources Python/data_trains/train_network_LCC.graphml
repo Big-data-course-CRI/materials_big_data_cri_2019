@@ -1,0 +1,4861 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="length" attr.type="double" for="edge" id="d3"/>
+<key attr.name="lon" attr.type="double" for="node" id="d2"/>
+<key attr.name="lat" attr.type="double" for="node" id="d1"/>
+<key attr.name="name" attr.type="string" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="8015345">
+  <data key="d0">Aachen Hbf</data>
+  <data key="d1">50.770832</data>
+  <data key="d2">6.105275</data>
+</node>
+<node id="8200100">
+  <data key="d0">Lëtzebuerg</data>
+  <data key="d1">49.599996000000004</data>
+  <data key="d2">6.133331</data>
+</node>
+<node id="8200110">
+  <data key="d0">Mersch</data>
+  <data key="d1">49.748893</data>
+  <data key="d2">6.106111</data>
+</node>
+<node id="8200120">
+  <data key="d0">Ettelbréck</data>
+  <data key="d1">49.847496</data>
+  <data key="d2">6.104169000000001</data>
+</node>
+<node id="8200130">
+  <data key="d0">Kautebaach</data>
+  <data key="d1">49.948611299999996</data>
+  <data key="d2">6.020003</data>
+</node>
+<node id="8200132">
+  <data key="d0">Wilwerwiltz</data>
+  <data key="d1">49.988887</data>
+  <data key="d2">5.999166000000001</data>
+</node>
+<node id="8200133">
+  <data key="d0">Drauffelt</data>
+  <data key="d1">50.017778</data>
+  <data key="d2">6.006106</data>
+</node>
+<node id="8200134">
+  <data key="d0">Clervaux</data>
+  <data key="d1">50.054724</data>
+  <data key="d2">6.0313930000000004</data>
+</node>
+<node id="8200136">
+  <data key="d0">Troisvierges</data>
+  <data key="d1">50.121109000000004</data>
+  <data key="d2">6.000281</data>
+</node>
+<node id="8200510">
+  <data key="d0">Bertrange Strassen</data>
+  <data key="d1">49.613002</data>
+  <data key="d2">6.060601</data>
+</node>
+<node id="8200516">
+  <data key="d0">Mamer</data>
+  <data key="d1">49.625663</data>
+  <data key="d2">6.0201400000000005</data>
+</node>
+<node id="8200518">
+  <data key="d0">Kapellen</data>
+  <data key="d1">49.644996</data>
+  <data key="d2">5.990833</data>
+</node>
+<node id="8200520">
+  <data key="d0">Klengbetten</data>
+  <data key="d1">49.646389</data>
+  <data key="d2">5.916385</data>
+</node>
+<node id="8200940">
+  <data key="d0">Rodange</data>
+  <data key="d1">49.551283000000005</data>
+  <data key="d2">5.845028</data>
+</node>
+<node id="8210014">
+  <data key="d0">Mamer-Lycée</data>
+  <data key="d1">49.618415</data>
+  <data key="d2">6.02968</data>
+</node>
+<node id="8400219">
+  <data key="d0">Eijsden</data>
+  <data key="d1">50.772135</data>
+  <data key="d2">5.709786</data>
+</node>
+<node id="8400424">
+  <data key="d0">Maastricht</data>
+  <data key="d1">50.85</data>
+  <data key="d2">5.683331</data>
+</node>
+<node id="8400426">
+  <data key="d0">Maastricht Randwyck</data>
+  <data key="d1">50.838502000000005</data>
+  <data key="d2">5.7167069999999995</data>
+</node>
+<node id="8400526">
+  <data key="d0">Roosendaal</data>
+  <data key="d1">51.533333</data>
+  <data key="d2">4.466667</data>
+</node>
+<node id="8722326">
+  <data key="d0">Lille Europe</data>
+  <data key="d1">50.636108</data>
+  <data key="d2">3.071516</data>
+</node>
+<node id="8728105">
+  <data key="d0">Croix l'Allumette</data>
+  <data key="d1">50.675708</data>
+  <data key="d2">3.13381</data>
+</node>
+<node id="8728600">
+  <data key="d0">Lille Flandres</data>
+  <data key="d1">50.633333</data>
+  <data key="d2">3.066669</data>
+</node>
+<node id="8728606">
+  <data key="d0">Hellemmes</data>
+  <data key="d1">50.626940999999995</data>
+  <data key="d2">3.108892</data>
+</node>
+<node id="8728654">
+  <data key="d0">Tourcoing</data>
+  <data key="d1">50.716663</data>
+  <data key="d2">3.1680330000000003</data>
+</node>
+<node id="8728671">
+  <data key="d0">Croix Wasquehal</data>
+  <data key="d1">50.6764687</data>
+  <data key="d2">3.1492720000000003</data>
+</node>
+<node id="8728673">
+  <data key="d0">Roubaix</data>
+  <data key="d1">50.699996999999996</data>
+  <data key="d2">3.166666</data>
+</node>
+<node id="8728683">
+  <data key="d0">Pont de Bois</data>
+  <data key="d1">50.624164</data>
+  <data key="d2">3.1275</data>
+</node>
+<node id="8728685">
+  <data key="d0">Annappes</data>
+  <data key="d1">50.622816799999995</data>
+  <data key="d2">3.1473086</data>
+</node>
+<node id="8728686">
+  <data key="d0">Ascq</data>
+  <data key="d1">50.616665999999995</data>
+  <data key="d2">3.166666</data>
+</node>
+<node id="8728687">
+  <data key="d0">Baisieux</data>
+  <data key="d1">50.610039</data>
+  <data key="d2">3.2378999</data>
+</node>
+<node id="8728710">
+  <data key="d0">Lezennes</data>
+  <data key="d1">50.616665999999995</data>
+  <data key="d2">3.1166669999999996</data>
+</node>
+<node id="8811007">
+  <data key="d0">Schaarbeek/Schaerbeek</data>
+  <data key="d1">50.878513</data>
+  <data key="d2">4.378636</data>
+</node>
+<node id="8811106">
+  <data key="d0">Evere</data>
+  <data key="d1">50.867779999999996</data>
+  <data key="d2">4.400965</data>
+</node>
+<node id="8811130">
+  <data key="d0">Haren-Sud/Haren-Zuid</data>
+  <data key="d1">50.889696</data>
+  <data key="d2">4.415357</data>
+</node>
+<node id="8811148">
+  <data key="d0">Buda</data>
+  <data key="d1">50.907495000000004</data>
+  <data key="d2">4.4170739999999995</data>
+</node>
+<node id="8811155">
+  <data key="d0">Haren</data>
+  <data key="d1">50.888878000000005</data>
+  <data key="d2">4.4199779999999995</data>
+</node>
+<node id="8811163">
+  <data key="d0">Bordet</data>
+  <data key="d1">50.877784999999996</data>
+  <data key="d2">4.410026</data>
+</node>
+<node id="8811171">
+  <data key="d0">Meiser</data>
+  <data key="d1">50.854071999999995</data>
+  <data key="d2">4.394421</data>
+</node>
+<node id="8811189">
+  <data key="d0">Vilvoorde</data>
+  <data key="d1">50.924583</data>
+  <data key="d2">4.432823</data>
+</node>
+<node id="8811197">
+  <data key="d0">Merode</data>
+  <data key="d1">50.839284</data>
+  <data key="d2">4.398934</data>
+</node>
+<node id="8811205">
+  <data key="d0">Delta</data>
+  <data key="d1">50.818357</data>
+  <data key="d2">4.403869</data>
+</node>
+<node id="8811213">
+  <data key="d0">Diegem</data>
+  <data key="d1">50.890478</data>
+  <data key="d2">4.442774</data>
+</node>
+<node id="8811221">
+  <data key="d0">Zaventem</data>
+  <data key="d1">50.885723</data>
+  <data key="d2">4.469886</data>
+</node>
+<node id="8811247">
+  <data key="d0">Nossegem</data>
+  <data key="d1">50.883314</data>
+  <data key="d2">4.506112</data>
+</node>
+<node id="8811254">
+  <data key="d0">Kortenberg</data>
+  <data key="d1">50.893066999999995</data>
+  <data key="d2">4.5433010000000005</data>
+</node>
+<node id="8811262">
+  <data key="d0">Erps-Kwerps</data>
+  <data key="d1">50.89651</data>
+  <data key="d2">4.585001</data>
+</node>
+<node id="8811270">
+  <data key="d0">Veltem</data>
+  <data key="d1">50.900519</data>
+  <data key="d2">4.633516</data>
+</node>
+<node id="8811288">
+  <data key="d0">Herent</data>
+  <data key="d1">50.903529999999996</data>
+  <data key="d2">4.672187999999999</data>
+</node>
+<node id="8811304">
+  <data key="d0">Brussel-Luxemburg/Bruxelles-Luxembourg</data>
+  <data key="d1">50.838943</data>
+  <data key="d2">4.373673999999999</data>
+</node>
+<node id="8811411">
+  <data key="d0">Etterbeek</data>
+  <data key="d1">50.822187</data>
+  <data key="d2">4.389513</data>
+</node>
+<node id="8811429">
+  <data key="d0">Watermaal/Watermael</data>
+  <data key="d1">50.80917</data>
+  <data key="d2">4.3998870000000005</data>
+</node>
+<node id="8811437">
+  <data key="d0">Bosvoorde/Boitsfort</data>
+  <data key="d1">50.794698</data>
+  <data key="d2">4.408112</data>
+</node>
+<node id="8811445">
+  <data key="d0">Groenendaal</data>
+  <data key="d1">50.766103</data>
+  <data key="d2">4.449489</data>
+</node>
+<node id="8811460">
+  <data key="d0">Hoeilaart</data>
+  <data key="d1">50.760161</data>
+  <data key="d2">4.467414</data>
+</node>
+<node id="8811510">
+  <data key="d0">La Hulpe</data>
+  <data key="d1">50.737958</data>
+  <data key="d2">4.49706</data>
+</node>
+<node id="8811528">
+  <data key="d0">Genval</data>
+  <data key="d1">50.725697</data>
+  <data key="d2">4.514832</data>
+</node>
+<node id="8811536">
+  <data key="d0">Rixensart</data>
+  <data key="d1">50.711413</data>
+  <data key="d2">4.5328550000000005</data>
+</node>
+<node id="8811544">
+  <data key="d0">Profondsart</data>
+  <data key="d1">50.693758</data>
+  <data key="d2">4.549153</data>
+</node>
+<node id="8811601">
+  <data key="d0">Ottignies</data>
+  <data key="d1">50.673667</data>
+  <data key="d2">4.56936</data>
+</node>
+<node id="8811635">
+  <data key="d0">Limal</data>
+  <data key="d1">50.69214</data>
+  <data key="d2">4.575302</data>
+</node>
+<node id="8811676">
+  <data key="d0">Louvain-la-Neuve-Université</data>
+  <data key="d1">50.669793</data>
+  <data key="d2">4.6157449999999995</data>
+</node>
+<node id="8811718">
+  <data key="d0">Bierges-Walibi</data>
+  <data key="d1">50.707772</data>
+  <data key="d2">4.594746</data>
+</node>
+<node id="8811726">
+  <data key="d0">Wavre</data>
+  <data key="d1">50.716266999999995</data>
+  <data key="d2">4.604778</data>
+</node>
+<node id="8811734">
+  <data key="d0">Basse-Wavre</data>
+  <data key="d1">50.72442</data>
+  <data key="d2">4.621651</data>
+</node>
+<node id="8811742">
+  <data key="d0">Gastuche</data>
+  <data key="d1">50.736646</data>
+  <data key="d2">4.649598</data>
+</node>
+<node id="8811759">
+  <data key="d0">Archennes</data>
+  <data key="d1">50.754345</data>
+  <data key="d2">4.662444</data>
+</node>
+<node id="8811767">
+  <data key="d0">Florival</data>
+  <data key="d1">50.761501</data>
+  <data key="d2">4.653868</data>
+</node>
+<node id="8811775">
+  <data key="d0">Pécrot</data>
+  <data key="d1">50.778517</data>
+  <data key="d2">4.651486</data>
+</node>
+<node id="8811817">
+  <data key="d0">Ceroux-Mousty</data>
+  <data key="d1">50.659940999999996</data>
+  <data key="d2">4.569046</data>
+</node>
+<node id="8811825">
+  <data key="d0">Court-Saint-Étienne</data>
+  <data key="d1">50.645567</data>
+  <data key="d2">4.565819</data>
+</node>
+<node id="8811916">
+  <data key="d0">Brussel-Schuman/Bruxelles-Schuman</data>
+  <data key="d1">50.843276</data>
+  <data key="d2">4.3807220000000004</data>
+</node>
+<node id="8812005">
+  <data key="d0">Brussel-Noord/Bruxelles-Nord</data>
+  <data key="d1">50.859663</data>
+  <data key="d2">4.360846</data>
+</node>
+<node id="8812013">
+  <data key="d0">Simonis</data>
+  <data key="d1">50.863645</data>
+  <data key="d2">4.3289800000000005</data>
+</node>
+<node id="8812021">
+  <data key="d0">Bockstael</data>
+  <data key="d1">50.87943</data>
+  <data key="d2">4.348513</data>
+</node>
+<node id="8812047">
+  <data key="d0">Jette</data>
+  <data key="d1">50.880833</data>
+  <data key="d2">4.326219999999999</data>
+</node>
+<node id="8812062">
+  <data key="d0">Zellik</data>
+  <data key="d1">50.890028</data>
+  <data key="d2">4.274541</data>
+</node>
+<node id="8812070">
+  <data key="d0">Asse</data>
+  <data key="d1">50.906488</data>
+  <data key="d2">4.207985</data>
+</node>
+<node id="8812112">
+  <data key="d0">Mollem</data>
+  <data key="d1">50.933473</data>
+  <data key="d2">4.216965</data>
+</node>
+<node id="8812120">
+  <data key="d0">Merchtem</data>
+  <data key="d1">50.954958000000005</data>
+  <data key="d2">4.222718</data>
+</node>
+<node id="8812146">
+  <data key="d0">Opwijk</data>
+  <data key="d1">50.974779</data>
+  <data key="d2">4.1873190000000005</data>
+</node>
+<node id="8812153">
+  <data key="d0">Heizijde</data>
+  <data key="d1">50.989593</data>
+  <data key="d2">4.156171</data>
+</node>
+<node id="8812161">
+  <data key="d0">Lebbeke</data>
+  <data key="d1">51.005009</data>
+  <data key="d2">4.134372</data>
+</node>
+<node id="8812211">
+  <data key="d0">Sint-Agatha-Berchem/Berchem-Sainte-Agathe</data>
+  <data key="d1">50.872625</data>
+  <data key="d2">4.289895</data>
+</node>
+<node id="8812229">
+  <data key="d0">Groot-Bijgaarden</data>
+  <data key="d1">50.868337</data>
+  <data key="d2">4.273543</data>
+</node>
+<node id="8812237">
+  <data key="d0">Dilbeek</data>
+  <data key="d1">50.866728</data>
+  <data key="d2">4.243393</data>
+</node>
+<node id="8812245">
+  <data key="d0">Sint-Martens-Bodegem</data>
+  <data key="d1">50.86716</data>
+  <data key="d2">4.205081</data>
+</node>
+<node id="8812252">
+  <data key="d0">Ternat</data>
+  <data key="d1">50.874522</data>
+  <data key="d2">4.1653400000000005</data>
+</node>
+<node id="8812260">
+  <data key="d0">Essene-Lombeek</data>
+  <data key="d1">50.882451</data>
+  <data key="d2">4.115171</data>
+</node>
+<node id="8813003">
+  <data key="d0">Brussel-Centraal/Bruxelles-Central</data>
+  <data key="d1">50.845658</data>
+  <data key="d2">4.356801</data>
+</node>
+<node id="8813037">
+  <data key="d0">Brussel-Kapellekerk/Bruxelles-Chapelle</data>
+  <data key="d1">50.841127</data>
+  <data key="d2">4.347866000000001</data>
+</node>
+<node id="8813045">
+  <data key="d0">Brussel-Congres/Bruxelles-Congrès</data>
+  <data key="d1">50.852067</data>
+  <data key="d2">4.362051</data>
+</node>
+<node id="8814001">
+  <data key="d0">Brussel-Zuid/Bruxelles-Midi</data>
+  <data key="d1">50.835707</data>
+  <data key="d2">4.336531</data>
+</node>
+<node id="8814118">
+  <data key="d0">Vorst-Oost/Forest-Est</data>
+  <data key="d1">50.810195</data>
+  <data key="d2">4.320943</data>
+</node>
+<node id="8814126">
+  <data key="d0">Ukkel-Stalle/Uccle-Stalle</data>
+  <data key="d1">50.802411</data>
+  <data key="d2">4.323901</data>
+</node>
+<node id="8814134">
+  <data key="d0">Ukkel-Kalevoet/Uccle-Calevoet</data>
+  <data key="d1">50.791748999999996</data>
+  <data key="d2">4.332207</data>
+</node>
+<node id="8814142">
+  <data key="d0">Linkebeek</data>
+  <data key="d1">50.773680999999996</data>
+  <data key="d2">4.339434</data>
+</node>
+<node id="8814159">
+  <data key="d0">Holleken</data>
+  <data key="d1">50.767631</data>
+  <data key="d2">4.353952</data>
+</node>
+<node id="8814167">
+  <data key="d0">Sint-Genesius-Rode</data>
+  <data key="d1">50.74781</data>
+  <data key="d2">4.361997</data>
+</node>
+<node id="8814175">
+  <data key="d0">De Hoek</data>
+  <data key="d1">50.738812</data>
+  <data key="d2">4.370717</data>
+</node>
+<node id="8814209">
+  <data key="d0">Nivelles</data>
+  <data key="d1">50.599641</data>
+  <data key="d2">4.335065</data>
+</node>
+<node id="8814241">
+  <data key="d0">Lillois</data>
+  <data key="d1">50.645423</data>
+  <data key="d2">4.365368</data>
+</node>
+<node id="8814258">
+  <data key="d0">Braine-l'Alleud</data>
+  <data key="d1">50.684778</data>
+  <data key="d2">4.375526</data>
+</node>
+<node id="8814266">
+  <data key="d0">Waterloo</data>
+  <data key="d1">50.715422</data>
+  <data key="d2">4.383481</data>
+</node>
+<node id="8814308">
+  <data key="d0">Halle</data>
+  <data key="d1">50.733931</data>
+  <data key="d2">4.240634</data>
+</node>
+<node id="8814332">
+  <data key="d0">Lembeek</data>
+  <data key="d1">50.715107</data>
+  <data key="d2">4.221577</data>
+</node>
+<node id="8814340">
+  <data key="d0">Buizingen</data>
+  <data key="d1">50.751577000000005</data>
+  <data key="d2">4.258558</data>
+</node>
+<node id="8814357">
+  <data key="d0">Lot</data>
+  <data key="d1">50.766364</data>
+  <data key="d2">4.273696</data>
+</node>
+<node id="8814365">
+  <data key="d0">Ruisbroek</data>
+  <data key="d1">50.79183</data>
+  <data key="d2">4.295333</data>
+</node>
+<node id="8814373">
+  <data key="d0">Vorst-Zuid/Forest-Midi</data>
+  <data key="d1">50.809215</data>
+  <data key="d2">4.3091669999999995</data>
+</node>
+<node id="8814415">
+  <data key="d0">Huizingen</data>
+  <data key="d1">50.7519</data>
+  <data key="d2">4.266487000000001</data>
+</node>
+<node id="8814423">
+  <data key="d0">Beersel</data>
+  <data key="d1">50.766616</data>
+  <data key="d2">4.302605000000001</data>
+</node>
+<node id="8814431">
+  <data key="d0">Moensberg</data>
+  <data key="d1">50.77832</data>
+  <data key="d2">4.330733</data>
+</node>
+<node id="8814449">
+  <data key="d0">Sint-Job</data>
+  <data key="d1">50.79441</data>
+  <data key="d2">4.362761</data>
+</node>
+<node id="8814456">
+  <data key="d0">Boondaal/Boondael</data>
+  <data key="d1">50.801665</data>
+  <data key="d2">4.393387000000001</data>
+</node>
+<node id="8814464">
+  <data key="d0">Diesdelle/Vivier d'Oie</data>
+  <data key="d1">50.796145</data>
+  <data key="d2">4.374052</data>
+</node>
+<node id="8815040">
+  <data key="d0">Brussel-West/Bruxelles-Ouest</data>
+  <data key="d1">50.848552000000005</data>
+  <data key="d2">4.321041999999999</data>
+</node>
+<node id="8819406">
+  <data key="d0">Brussel-Nat-Luchthaven/Bruxelles-Nat-Aéroport</data>
+  <data key="d1">50.896456</data>
+  <data key="d2">4.482075</data>
+</node>
+<node id="8821006">
+  <data key="d0">Antwerpen-Centraal</data>
+  <data key="d1">51.2172</data>
+  <data key="d2">4.421101</data>
+</node>
+<node id="8821022">
+  <data key="d0">Antwerpen-Oost</data>
+  <data key="d1">51.207357</data>
+  <data key="d2">4.436392</data>
+</node>
+<node id="8821063">
+  <data key="d0">Antwerpen-Luchtbal</data>
+  <data key="d1">51.244132</data>
+  <data key="d2">4.425029</data>
+</node>
+<node id="8821071">
+  <data key="d0">Ekeren</data>
+  <data key="d1">51.281626</data>
+  <data key="d2">4.434154</data>
+</node>
+<node id="8821089">
+  <data key="d0">Antwerpen-Noorderdokken</data>
+  <data key="d1">51.261643</data>
+  <data key="d2">4.427906</data>
+</node>
+<node id="8821121">
+  <data key="d0">Antwerpen-Berchem</data>
+  <data key="d1">51.19923</data>
+  <data key="d2">4.432221</data>
+</node>
+<node id="8821147">
+  <data key="d0">Mortsel</data>
+  <data key="d1">51.182959999999994</data>
+  <data key="d2">4.448437</data>
+</node>
+<node id="8821154">
+  <data key="d0">Mortsel-Deurnesteenweg</data>
+  <data key="d1">51.183023</data>
+  <data key="d2">4.446514</data>
+</node>
+<node id="8821196">
+  <data key="d0">Antwerpen-Zuid</data>
+  <data key="d1">51.197828</data>
+  <data key="d2">4.3902589999999995</data>
+</node>
+<node id="8821238">
+  <data key="d0">Mortsel-Oude God</data>
+  <data key="d1">51.171256</data>
+  <data key="d2">4.455737</data>
+</node>
+<node id="8821246">
+  <data key="d0">Mortsel-Liersesteenweg</data>
+  <data key="d1">51.169027</data>
+  <data key="d2">4.468843</data>
+</node>
+<node id="8821311">
+  <data key="d0">Kontich</data>
+  <data key="d1">51.134023</data>
+  <data key="d2">4.476358</data>
+</node>
+<node id="8821337">
+  <data key="d0">Hove</data>
+  <data key="d1">51.154114</data>
+  <data key="d2">4.465157</data>
+</node>
+<node id="8821402">
+  <data key="d0">Essen</data>
+  <data key="d1">51.462767</data>
+  <data key="d2">4.451314</data>
+</node>
+<node id="8821436">
+  <data key="d0">Wildert</data>
+  <data key="d1">51.428087</data>
+  <data key="d2">4.46335</data>
+</node>
+<node id="8821444">
+  <data key="d0">Kalmthout</data>
+  <data key="d1">51.391177</data>
+  <data key="d2">4.466819999999999</data>
+</node>
+<node id="8821451">
+  <data key="d0">Kijkuit</data>
+  <data key="d1">51.378664</data>
+  <data key="d2">4.467315</data>
+</node>
+<node id="8821519">
+  <data key="d0">Heide</data>
+  <data key="d1">51.364622999999995</data>
+  <data key="d2">4.460483</data>
+</node>
+<node id="8821543">
+  <data key="d0">Sint-Mariaburg</data>
+  <data key="d1">51.291658</data>
+  <data key="d2">4.4349</data>
+</node>
+<node id="8821600">
+  <data key="d0">Lier</data>
+  <data key="d1">51.135758</data>
+  <data key="d2">4.560614</data>
+</node>
+<node id="8821634">
+  <data key="d0">Boechout</data>
+  <data key="d1">51.16348</data>
+  <data key="d2">4.494489</data>
+</node>
+<node id="8821659">
+  <data key="d0">Kessel</data>
+  <data key="d1">51.151057</data>
+  <data key="d2">4.618459</data>
+</node>
+<node id="8821667">
+  <data key="d0">Nijlen</data>
+  <data key="d1">51.15984</data>
+  <data key="d2">4.666588</data>
+</node>
+<node id="8821709">
+  <data key="d0">Wolfstee</data>
+  <data key="d1">51.168361</data>
+  <data key="d2">4.786144</data>
+</node>
+<node id="8821717">
+  <data key="d0">Herentals</data>
+  <data key="d1">51.181513</data>
+  <data key="d2">4.829535</data>
+</node>
+<node id="8821725">
+  <data key="d0">Bouwel</data>
+  <data key="d1">51.165764</data>
+  <data key="d2">4.746511</data>
+</node>
+<node id="8821816">
+  <data key="d0">Berlaar</data>
+  <data key="d1">51.113662</data>
+  <data key="d2">4.6388110000000005</data>
+</node>
+<node id="8821824">
+  <data key="d0">Melkouwen</data>
+  <data key="d1">51.094938</data>
+  <data key="d2">4.671532</data>
+</node>
+<node id="8821832">
+  <data key="d0">Heist-op-den-Berg</data>
+  <data key="d1">51.074146</data>
+  <data key="d2">4.708235</data>
+</node>
+<node id="8821857">
+  <data key="d0">Booischot</data>
+  <data key="d1">51.037344</data>
+  <data key="d2">4.773478</data>
+</node>
+<node id="8821865">
+  <data key="d0">Begijnendijk</data>
+  <data key="d1">51.021972</data>
+  <data key="d2">4.800338</data>
+</node>
+<node id="8821907">
+  <data key="d0">Turnhout</data>
+  <data key="d1">51.322032</data>
+  <data key="d2">4.9374150000000006</data>
+</node>
+<node id="8821964">
+  <data key="d0">Tielen</data>
+  <data key="d1">51.241021</data>
+  <data key="d2">4.893089</data>
+</node>
+<node id="8822004">
+  <data key="d0">Mechelen</data>
+  <data key="d1">51.017648</data>
+  <data key="d2">4.482785</data>
+</node>
+<node id="8822053">
+  <data key="d0">Kapelle-op-den-Bos</data>
+  <data key="d1">51.010843</data>
+  <data key="d2">4.359121</data>
+</node>
+<node id="8822111">
+  <data key="d0">Londerzeel</data>
+  <data key="d1">51.009091</data>
+  <data key="d2">4.299073</data>
+</node>
+<node id="8822137">
+  <data key="d0">Malderen</data>
+  <data key="d1">51.014484</data>
+  <data key="d2">4.2291099999999995</data>
+</node>
+<node id="8822145">
+  <data key="d0">Buggenhout</data>
+  <data key="d1">51.016290999999995</data>
+  <data key="d2">4.201666</data>
+</node>
+<node id="8822160">
+  <data key="d0">Baasrode-Zuid</data>
+  <data key="d1">51.019436999999996</data>
+  <data key="d2">4.153492</data>
+</node>
+<node id="8822210">
+  <data key="d0">Duffel</data>
+  <data key="d1">51.091243</data>
+  <data key="d2">4.493186</data>
+</node>
+<node id="8822228">
+  <data key="d0">Sint-Katelijne-Waver</data>
+  <data key="d1">51.069975</data>
+  <data key="d2">4.496116000000001</data>
+</node>
+<node id="8822251">
+  <data key="d0">Weerde</data>
+  <data key="d1">50.977449</data>
+  <data key="d2">4.470937</data>
+</node>
+<node id="8822269">
+  <data key="d0">Eppegem</data>
+  <data key="d1">50.9584</data>
+  <data key="d2">4.45749</data>
+</node>
+<node id="8822277">
+  <data key="d0">Hofstade</data>
+  <data key="d1">50.988658</data>
+  <data key="d2">4.498336</data>
+</node>
+<node id="8822343">
+  <data key="d0">Mechelen-Nekkerspoel</data>
+  <data key="d1">51.029883</data>
+  <data key="d2">4.489914</data>
+</node>
+<node id="8822426">
+  <data key="d0">Muizen</data>
+  <data key="d1">51.008201</data>
+  <data key="d2">4.513843</data>
+</node>
+<node id="8822475">
+  <data key="d0">Boortmeerbeek</data>
+  <data key="d1">50.981853</data>
+  <data key="d2">4.5739</data>
+</node>
+<node id="8822517">
+  <data key="d0">Haacht</data>
+  <data key="d1">50.966428</data>
+  <data key="d2">4.613308999999999</data>
+</node>
+<node id="8822525">
+  <data key="d0">Wespelaar-Tildonk</data>
+  <data key="d1">50.958544</data>
+  <data key="d2">4.638011</data>
+</node>
+<node id="8822608">
+  <data key="d0">Willebroek</data>
+  <data key="d1">51.066342999999996</data>
+  <data key="d2">4.356019</data>
+</node>
+<node id="8822715">
+  <data key="d0">Puurs</data>
+  <data key="d1">51.077220000000004</data>
+  <data key="d2">4.282703</data>
+</node>
+<node id="8822772">
+  <data key="d0">Bornem</data>
+  <data key="d1">51.099225</data>
+  <data key="d2">4.240526</data>
+</node>
+<node id="8822814">
+  <data key="d0">Boom</data>
+  <data key="d1">51.090713</data>
+  <data key="d2">4.3606940000000005</data>
+</node>
+<node id="8822848">
+  <data key="d0">Ruisbroek-Sauvegarde</data>
+  <data key="d1">51.081022</data>
+  <data key="d2">4.324998</data>
+</node>
+<node id="8824158">
+  <data key="d0">Hoboken-Polder</data>
+  <data key="d1">51.182699</data>
+  <data key="d2">4.347785</data>
+</node>
+<node id="8824224">
+  <data key="d0">Hemiksem</data>
+  <data key="d1">51.136243</data>
+  <data key="d2">4.338293</data>
+</node>
+<node id="8824232">
+  <data key="d0">Schelle</data>
+  <data key="d1">51.12551</data>
+  <data key="d2">4.340261</data>
+</node>
+<node id="8824240">
+  <data key="d0">Niel</data>
+  <data key="d1">51.111595</data>
+  <data key="d2">4.338589</data>
+</node>
+<node id="8831005">
+  <data key="d0">Hasselt</data>
+  <data key="d1">50.930822</data>
+  <data key="d2">5.327627</data>
+</node>
+<node id="8831039">
+  <data key="d0">Alken</data>
+  <data key="d1">50.886837</data>
+  <data key="d2">5.292866</data>
+</node>
+<node id="8831088">
+  <data key="d0">Schulen</data>
+  <data key="d1">50.963758</data>
+  <data key="d2">5.187405</data>
+</node>
+<node id="8831112">
+  <data key="d0">Diepenbeek</data>
+  <data key="d1">50.910452</data>
+  <data key="d2">5.4199470000000005</data>
+</node>
+<node id="8831138">
+  <data key="d0">Bilzen</data>
+  <data key="d1">50.868643</data>
+  <data key="d2">5.50938</data>
+</node>
+<node id="8831310">
+  <data key="d0">Tongeren</data>
+  <data key="d1">50.784405</data>
+  <data key="d2">5.47328</data>
+</node>
+<node id="8831401">
+  <data key="d0">Diest</data>
+  <data key="d1">50.993341</data>
+  <data key="d2">5.050031</data>
+</node>
+<node id="8831765">
+  <data key="d0">Genk</data>
+  <data key="d1">50.967057000000004</data>
+  <data key="d2">5.497685</data>
+</node>
+<node id="8831781">
+  <data key="d0">Bokrijk</data>
+  <data key="d1">50.955812</data>
+  <data key="d2">5.408386</data>
+</node>
+<node id="8831807">
+  <data key="d0">Sint-Truiden</data>
+  <data key="d1">50.81762</data>
+  <data key="d2">5.176654</data>
+</node>
+<node id="8832003">
+  <data key="d0">Leopoldsburg</data>
+  <data key="d1">51.117312</data>
+  <data key="d2">5.257287</data>
+</node>
+<node id="8832045">
+  <data key="d0">Balen</data>
+  <data key="d1">51.169098999999996</data>
+  <data key="d2">5.164986</data>
+</node>
+<node id="8832227">
+  <data key="d0">Beverlo</data>
+  <data key="d1">51.087719</data>
+  <data key="d2">5.234373000000001</data>
+</node>
+<node id="8832235">
+  <data key="d0">Beringen</data>
+  <data key="d1">51.050603</data>
+  <data key="d2">5.235892</data>
+</node>
+<node id="8832243">
+  <data key="d0">Heusden</data>
+  <data key="d1">51.038207</data>
+  <data key="d2">5.281782</data>
+</node>
+<node id="8832250">
+  <data key="d0">Zolder</data>
+  <data key="d1">51.033547999999996</data>
+  <data key="d2">5.3299</data>
+</node>
+<node id="8832334">
+  <data key="d0">Zonhoven</data>
+  <data key="d1">50.989557</data>
+  <data key="d2">5.348815</data>
+</node>
+<node id="8832375">
+  <data key="d0">Kiewit</data>
+  <data key="d1">50.954840999999995</data>
+  <data key="d2">5.350226</data>
+</node>
+<node id="8832409">
+  <data key="d0">Mol</data>
+  <data key="d1">51.19105</data>
+  <data key="d2">5.116336</data>
+</node>
+<node id="8832433">
+  <data key="d0">Geel</data>
+  <data key="d1">51.168955</data>
+  <data key="d2">4.988608</data>
+</node>
+<node id="8832458">
+  <data key="d0">Olen</data>
+  <data key="d1">51.188057</data>
+  <data key="d2">4.847585</data>
+</node>
+<node id="8832565">
+  <data key="d0">Lommel</data>
+  <data key="d1">51.211564</data>
+  <data key="d2">5.312031</data>
+</node>
+<node id="8832573">
+  <data key="d0">Overpelt</data>
+  <data key="d1">51.215618</data>
+  <data key="d2">5.422751</data>
+</node>
+<node id="8832615">
+  <data key="d0">Neerpelt</data>
+  <data key="d1">51.222369</data>
+  <data key="d2">5.43717</data>
+</node>
+<node id="8832664">
+  <data key="d0">Hamont</data>
+  <data key="d1">51.246424</data>
+  <data key="d2">5.543279</data>
+</node>
+<node id="8833001">
+  <data key="d0">Leuven</data>
+  <data key="d1">50.88228</data>
+  <data key="d2">4.715866</data>
+</node>
+<node id="8833050">
+  <data key="d0">Vertrijk</data>
+  <data key="d1">50.836282000000004</data>
+  <data key="d2">4.835522</data>
+</node>
+<node id="8833126">
+  <data key="d0">Heverlee</data>
+  <data key="d1">50.86253</data>
+  <data key="d2">4.6952</data>
+</node>
+<node id="8833134">
+  <data key="d0">Oud-Heverlee</data>
+  <data key="d1">50.835931</data>
+  <data key="d2">4.653311</data>
+</node>
+<node id="8833159">
+  <data key="d0">Sint-Joris-Weert</data>
+  <data key="d1">50.800631</data>
+  <data key="d2">4.651728</data>
+</node>
+<node id="8833175">
+  <data key="d0">Wijgmaal</data>
+  <data key="d1">50.922740000000005</data>
+  <data key="d2">4.701475</data>
+</node>
+<node id="8833209">
+  <data key="d0">Aarschot</data>
+  <data key="d1">50.984406</data>
+  <data key="d2">4.824043</data>
+</node>
+<node id="8833233">
+  <data key="d0">Wezemaal</data>
+  <data key="d1">50.956261</data>
+  <data key="d2">4.747679</data>
+</node>
+<node id="8833258">
+  <data key="d0">Langdorp</data>
+  <data key="d1">51.002466</data>
+  <data key="d2">4.863541000000001</data>
+</node>
+<node id="8833266">
+  <data key="d0">Testelt</data>
+  <data key="d1">51.009864</data>
+  <data key="d2">4.945829</data>
+</node>
+<node id="8833274">
+  <data key="d0">Zichem</data>
+  <data key="d1">51.00669</data>
+  <data key="d2">4.987359</data>
+</node>
+<node id="8833308">
+  <data key="d0">Tienen</data>
+  <data key="d1">50.80802</data>
+  <data key="d2">4.92581</data>
+</node>
+<node id="8833449">
+  <data key="d0">Ezemaal</data>
+  <data key="d1">50.772126</data>
+  <data key="d2">4.994217</data>
+</node>
+<node id="8833605">
+  <data key="d0">Landen</data>
+  <data key="d1">50.747927000000004</data>
+  <data key="d2">5.07966</data>
+</node>
+<node id="8833670">
+  <data key="d0">Neerwinden</data>
+  <data key="d1">50.763964</data>
+  <data key="d2">5.036323</data>
+</node>
+<node id="8841004">
+  <data key="d0">Liège-Guillemins</data>
+  <data key="d1">50.62455</data>
+  <data key="d2">5.566694999999999</data>
+</node>
+<node id="8841202">
+  <data key="d0">Ans</data>
+  <data key="d1">50.661208</data>
+  <data key="d2">5.509704</data>
+</node>
+<node id="8841319">
+  <data key="d0">Bierset-Awans</data>
+  <data key="d1">50.658609999999996</data>
+  <data key="d2">5.460551000000001</data>
+</node>
+<node id="8841327">
+  <data key="d0">Voroux</data>
+  <data key="d1">50.661809999999996</data>
+  <data key="d2">5.429556</data>
+</node>
+<node id="8841400">
+  <data key="d0">Waremme</data>
+  <data key="d1">50.694549</data>
+  <data key="d2">5.249475</data>
+</node>
+<node id="8841434">
+  <data key="d0">Bleret</data>
+  <data key="d1">50.685065</data>
+  <data key="d2">5.2863940000000005</data>
+</node>
+<node id="8841442">
+  <data key="d0">Remicourt</data>
+  <data key="d1">50.678611</data>
+  <data key="d2">5.321407</data>
+</node>
+<node id="8841459">
+  <data key="d0">Momalle</data>
+  <data key="d1">50.669909999999994</data>
+  <data key="d2">5.367602</data>
+</node>
+<node id="8841467">
+  <data key="d0">Fexhe-le-Haut-Clocher</data>
+  <data key="d1">50.664049</data>
+  <data key="d2">5.398453</data>
+</node>
+<node id="8841525">
+  <data key="d0">Liège-Palais</data>
+  <data key="d1">50.646349</data>
+  <data key="d2">5.570453</data>
+</node>
+<node id="8841558">
+  <data key="d0">Liège-Jonfosse</data>
+  <data key="d1">50.640299</data>
+  <data key="d2">5.561131</data>
+</node>
+<node id="8841608">
+  <data key="d0">Herstal</data>
+  <data key="d1">50.660911</data>
+  <data key="d2">5.622761</data>
+</node>
+<node id="8841665">
+  <data key="d0">Milmort</data>
+  <data key="d1">50.692454999999995</data>
+  <data key="d2">5.60009</data>
+</node>
+<node id="8841673">
+  <data key="d0">Liers</data>
+  <data key="d1">50.698181</data>
+  <data key="d2">5.56683</data>
+</node>
+<node id="8841731">
+  <data key="d0">Glons</data>
+  <data key="d1">50.750426000000004</data>
+  <data key="d2">5.535431</data>
+</node>
+<node id="8842002">
+  <data key="d0">Angleur</data>
+  <data key="d1">50.613152</data>
+  <data key="d2">5.599695</data>
+</node>
+<node id="8842036">
+  <data key="d0">Chênée</data>
+  <data key="d1">50.608019</data>
+  <data key="d2">5.616073</data>
+</node>
+<node id="8842630">
+  <data key="d0">Tilff</data>
+  <data key="d1">50.570624</data>
+  <data key="d2">5.583937000000001</data>
+</node>
+<node id="8842648">
+  <data key="d0">Méry</data>
+  <data key="d1">50.54762</data>
+  <data key="d2">5.587236</data>
+</node>
+<node id="8842655">
+  <data key="d0">Hony</data>
+  <data key="d1">50.539916999999996</data>
+  <data key="d2">5.573563</data>
+</node>
+<node id="8842663">
+  <data key="d0">Esneux</data>
+  <data key="d1">50.530568</data>
+  <data key="d2">5.572565</data>
+</node>
+<node id="8842689">
+  <data key="d0">Poulseur</data>
+  <data key="d1">50.509209000000006</data>
+  <data key="d2">5.578858</data>
+</node>
+<node id="8842705">
+  <data key="d0">Rivage</data>
+  <data key="d1">50.483284999999995</data>
+  <data key="d2">5.587631</data>
+</node>
+<node id="8842754">
+  <data key="d0">Aywaille</data>
+  <data key="d1">50.472938</data>
+  <data key="d2">5.672499</data>
+</node>
+<node id="8842838">
+  <data key="d0">Comblain-la-Tour</data>
+  <data key="d1">50.456865</data>
+  <data key="d2">5.566955999999999</data>
+</node>
+<node id="8842846">
+  <data key="d0">Hamoir</data>
+  <data key="d1">50.428181</data>
+  <data key="d2">5.533561</data>
+</node>
+<node id="8842853">
+  <data key="d0">Sy</data>
+  <data key="d1">50.403254</data>
+  <data key="d2">5.5235650000000005</data>
+</node>
+<node id="8843133">
+  <data key="d0">Sclessin</data>
+  <data key="d1">50.609844</data>
+  <data key="d2">5.558911</data>
+</node>
+<node id="8843141">
+  <data key="d0">Pont-de-Seraing</data>
+  <data key="d1">50.619651</data>
+  <data key="d2">5.510162</data>
+</node>
+<node id="8843158">
+  <data key="d0">Jemeppe-sur-Meuse</data>
+  <data key="d1">50.618446</data>
+  <data key="d2">5.4978739999999995</data>
+</node>
+<node id="8843166">
+  <data key="d0">Flemalle-Grande</data>
+  <data key="d1">50.605349</data>
+  <data key="d2">5.480983</data>
+</node>
+<node id="8843208">
+  <data key="d0">Flemalle-Haute</data>
+  <data key="d1">50.595308</data>
+  <data key="d2">5.457656</data>
+</node>
+<node id="8843224">
+  <data key="d0">Leman</data>
+  <data key="d1">50.600396</data>
+  <data key="d2">5.468309</data>
+</node>
+<node id="8843240">
+  <data key="d0">Engis</data>
+  <data key="d1">50.582957</data>
+  <data key="d2">5.401986</data>
+</node>
+<node id="8843307">
+  <data key="d0">Huy</data>
+  <data key="d1">50.527242</data>
+  <data key="d2">5.234211</data>
+</node>
+<node id="8843323">
+  <data key="d0">Ampsin</data>
+  <data key="d1">50.539215000000006</data>
+  <data key="d2">5.289729</data>
+</node>
+<node id="8843331">
+  <data key="d0">Amay</data>
+  <data key="d1">50.546011</data>
+  <data key="d2">5.32049</data>
+</node>
+<node id="8843349">
+  <data key="d0">Haute-Flône</data>
+  <data key="d1">50.553490000000004</data>
+  <data key="d2">5.330333</data>
+</node>
+<node id="8843406">
+  <data key="d0">Statte</data>
+  <data key="d1">50.528276</data>
+  <data key="d2">5.219676</data>
+</node>
+<node id="8843430">
+  <data key="d0">Bas-Oha</data>
+  <data key="d1">50.52263</data>
+  <data key="d2">5.190937</data>
+</node>
+<node id="8843901">
+  <data key="d0">Bressoux</data>
+  <data key="d1">50.643966999999996</data>
+  <data key="d2">5.611057</data>
+</node>
+<node id="8844008">
+  <data key="d0">Verviers-Central</data>
+  <data key="d1">50.588135</data>
+  <data key="d2">5.8549169999999995</data>
+</node>
+<node id="8844057">
+  <data key="d0">Verviers-Palais</data>
+  <data key="d1">50.590921</data>
+  <data key="d2">5.865335</data>
+</node>
+<node id="8844206">
+  <data key="d0">Pepinster</data>
+  <data key="d1">50.568179</data>
+  <data key="d2">5.80615</data>
+</node>
+<node id="8844230">
+  <data key="d0">Nessonvaux</data>
+  <data key="d1">50.572089</data>
+  <data key="d2">5.741581</data>
+</node>
+<node id="8844255">
+  <data key="d0">Fraipont</data>
+  <data key="d1">50.565059000000005</data>
+  <data key="d2">5.7236650000000004</data>
+</node>
+<node id="8844271">
+  <data key="d0">Trooz</data>
+  <data key="d1">50.573213</data>
+  <data key="d2">5.688346</data>
+</node>
+<node id="8844313">
+  <data key="d0">Pepinster-Cité</data>
+  <data key="d1">50.563404999999996</data>
+  <data key="d2">5.804397</data>
+</node>
+<node id="8844321">
+  <data key="d0">Juslenville</data>
+  <data key="d1">50.544717</data>
+  <data key="d2">5.809935</data>
+</node>
+<node id="8844339">
+  <data key="d0">Theux</data>
+  <data key="d1">50.536159000000005</data>
+  <data key="d2">5.815030999999999</data>
+</node>
+<node id="8844347">
+  <data key="d0">Franchimont</data>
+  <data key="d1">50.525723</data>
+  <data key="d2">5.822223</data>
+</node>
+<node id="8844404">
+  <data key="d0">Spa</data>
+  <data key="d1">50.490305</data>
+  <data key="d2">5.855096</data>
+</node>
+<node id="8844420">
+  <data key="d0">Spa-Géronstère</data>
+  <data key="d1">50.489307000000004</data>
+  <data key="d2">5.866207</data>
+</node>
+<node id="8844503">
+  <data key="d0">Welkenraedt</data>
+  <data key="d1">50.659707</data>
+  <data key="d2">5.975381</data>
+</node>
+<node id="8844545">
+  <data key="d0">Dolhain-Gileppe</data>
+  <data key="d1">50.616244</data>
+  <data key="d2">5.936494000000001</data>
+</node>
+<node id="8844628">
+  <data key="d0">Eupen</data>
+  <data key="d1">50.635157</data>
+  <data key="d2">6.03711</data>
+</node>
+<node id="8844644">
+  <data key="d0">Hergenrath</data>
+  <data key="d1">50.718209</data>
+  <data key="d2">6.041335</data>
+</node>
+<node id="8845005">
+  <data key="d0">Gouvy</data>
+  <data key="d1">50.189409000000005</data>
+  <data key="d2">5.953906</data>
+</node>
+<node id="8845146">
+  <data key="d0">Vielsalm</data>
+  <data key="d1">50.278933</data>
+  <data key="d2">5.909211</data>
+</node>
+<node id="8845203">
+  <data key="d0">Trois-Ponts</data>
+  <data key="d1">50.368214</data>
+  <data key="d2">5.873578</data>
+</node>
+<node id="8845229">
+  <data key="d0">Coo</data>
+  <data key="d1">50.391127000000004</data>
+  <data key="d2">5.880473</data>
+</node>
+<node id="8846201">
+  <data key="d0">Visé</data>
+  <data key="d1">50.737759999999994</data>
+  <data key="d2">5.692544</data>
+</node>
+<node id="8861119">
+  <data key="d0">Ronet</data>
+  <data key="d1">50.457737</data>
+  <data key="d2">4.8284199999999995</data>
+</node>
+<node id="8861127">
+  <data key="d0">Flawinne</data>
+  <data key="d1">50.456236</data>
+  <data key="d2">4.806298</data>
+</node>
+<node id="8861135">
+  <data key="d0">Floreffe</data>
+  <data key="d1">50.443328</data>
+  <data key="d2">4.762368</data>
+</node>
+<node id="8861143">
+  <data key="d0">Franière</data>
+  <data key="d1">50.439543</data>
+  <data key="d2">4.733548000000001</data>
+</node>
+<node id="8861150">
+  <data key="d0">Moustier</data>
+  <data key="d1">50.452748</data>
+  <data key="d2">4.693807</data>
+</node>
+<node id="8861168">
+  <data key="d0">Ham-sur-Sambre</data>
+  <data key="d1">50.45255</data>
+  <data key="d2">4.669392</data>
+</node>
+<node id="8861200">
+  <data key="d0">Gembloux</data>
+  <data key="d1">50.570489</data>
+  <data key="d2">4.691497</data>
+</node>
+<node id="8861317">
+  <data key="d0">Chapelle-Dieu</data>
+  <data key="d1">50.557373999999996</data>
+  <data key="d2">4.697627</data>
+</node>
+<node id="8861333">
+  <data key="d0">Mazy</data>
+  <data key="d1">50.513496999999994</data>
+  <data key="d2">4.675829</data>
+</node>
+<node id="8861416">
+  <data key="d0">Lonzée</data>
+  <data key="d1">50.551935</data>
+  <data key="d2">4.7201</data>
+</node>
+<node id="8861424">
+  <data key="d0">Beuzet</data>
+  <data key="d1">50.534208</data>
+  <data key="d2">4.748533</data>
+</node>
+<node id="8861432">
+  <data key="d0">Saint-Denis-Bovesse</data>
+  <data key="d1">50.5213</data>
+  <data key="d2">4.7677879999999995</data>
+</node>
+<node id="8861440">
+  <data key="d0">Rhisnes</data>
+  <data key="d1">50.499348</data>
+  <data key="d2">4.801866</data>
+</node>
+<node id="8861515">
+  <data key="d0">Ernage</data>
+  <data key="d1">50.590823</data>
+  <data key="d2">4.668538</data>
+</node>
+<node id="8861523">
+  <data key="d0">Chastre</data>
+  <data key="d1">50.608819</data>
+  <data key="d2">4.6488879999999995</data>
+</node>
+<node id="8861531">
+  <data key="d0">Blanmont</data>
+  <data key="d1">50.619453</data>
+  <data key="d2">4.636393</data>
+</node>
+<node id="8861549">
+  <data key="d0">Mont-Saint-Guibert</data>
+  <data key="d1">50.637611</data>
+  <data key="d2">4.613884</data>
+</node>
+<node id="8862018">
+  <data key="d0">Stockem</data>
+  <data key="d1">49.690939</data>
+  <data key="d2">5.769115</data>
+</node>
+<node id="8863008">
+  <data key="d0">Namur</data>
+  <data key="d1">50.468794</data>
+  <data key="d2">4.86222</data>
+</node>
+<node id="8863115">
+  <data key="d0">Jambes</data>
+  <data key="d1">50.454843</data>
+  <data key="d2">4.876144</data>
+</node>
+<node id="8863156">
+  <data key="d0">Lustin</data>
+  <data key="d1">50.391559</data>
+  <data key="d2">4.877241000000001</data>
+</node>
+<node id="8863354">
+  <data key="d0">Jambes-Est</data>
+  <data key="d1">50.454798</data>
+  <data key="d2">4.880261</data>
+</node>
+<node id="8863362">
+  <data key="d0">Dave-Saint-Martin</data>
+  <data key="d1">50.429097999999996</data>
+  <data key="d2">4.884414</data>
+</node>
+<node id="8863404">
+  <data key="d0">Andenne</data>
+  <data key="d1">50.496759000000004</data>
+  <data key="d2">5.094698999999999</data>
+</node>
+<node id="8863438">
+  <data key="d0">Château-de-Seilles</data>
+  <data key="d1">50.497209000000005</data>
+  <data key="d2">5.081745</data>
+</node>
+<node id="8863446">
+  <data key="d0">Sclaigneaux</data>
+  <data key="d1">50.492247</data>
+  <data key="d2">5.026363</data>
+</node>
+<node id="8863453">
+  <data key="d0">Namêche</data>
+  <data key="d1">50.47043</data>
+  <data key="d2">4.997939</data>
+</node>
+<node id="8863461">
+  <data key="d0">Marche-les-Dames</data>
+  <data key="d1">50.480740999999995</data>
+  <data key="d2">4.964580000000001</data>
+</node>
+<node id="8863503">
+  <data key="d0">Dinant</data>
+  <data key="d1">50.260721000000004</data>
+  <data key="d2">4.908182</data>
+</node>
+<node id="8863545">
+  <data key="d0">Yvoir</data>
+  <data key="d1">50.320840000000004</data>
+  <data key="d2">4.878643</data>
+</node>
+<node id="8863560">
+  <data key="d0">Godinne</data>
+  <data key="d1">50.348914</data>
+  <data key="d2">4.86996</data>
+</node>
+<node id="8863818">
+  <data key="d0">Anseremme</data>
+  <data key="d1">50.238023</data>
+  <data key="d2">4.905530000000001</data>
+</node>
+<node id="8863834">
+  <data key="d0">Gendron-Celles</data>
+  <data key="d1">50.211234999999995</data>
+  <data key="d2">4.964607</data>
+</node>
+<node id="8863842">
+  <data key="d0">Houyet</data>
+  <data key="d1">50.189868</data>
+  <data key="d2">5.006074</data>
+</node>
+<node id="8863867">
+  <data key="d0">Beauraing</data>
+  <data key="d1">50.11443</data>
+  <data key="d2">4.956840000000001</data>
+</node>
+<node id="8864006">
+  <data key="d0">Jemelle</data>
+  <data key="d1">50.160401</data>
+  <data key="d2">5.266698</data>
+</node>
+<node id="8864311">
+  <data key="d0">Forrières</data>
+  <data key="d1">50.132759</data>
+  <data key="d2">5.276783999999999</data>
+</node>
+<node id="8864337">
+  <data key="d0">Grupont</data>
+  <data key="d1">50.0906</data>
+  <data key="d2">5.280524</data>
+</node>
+<node id="8864345">
+  <data key="d0">Marloie</data>
+  <data key="d1">50.202821</data>
+  <data key="d2">5.313892</data>
+</node>
+<node id="8864352">
+  <data key="d0">Aye</data>
+  <data key="d1">50.224135</data>
+  <data key="d2">5.301091</data>
+</node>
+<node id="8864410">
+  <data key="d0">Marche-en-Famenne</data>
+  <data key="d1">50.222471999999996</data>
+  <data key="d2">5.346289</data>
+</node>
+<node id="8864436">
+  <data key="d0">Melreux-Hotton</data>
+  <data key="d1">50.28367</data>
+  <data key="d2">5.440136</data>
+</node>
+<node id="8864451">
+  <data key="d0">Barvaux</data>
+  <data key="d1">50.349416999999995</data>
+  <data key="d2">5.501542</data>
+</node>
+<node id="8864469">
+  <data key="d0">Bomal</data>
+  <data key="d1">50.376798</data>
+  <data key="d2">5.519304</data>
+</node>
+<node id="8864501">
+  <data key="d0">Ciney</data>
+  <data key="d1">50.29105</data>
+  <data key="d2">5.091409</data>
+</node>
+<node id="8864816">
+  <data key="d0">Leignon</data>
+  <data key="d1">50.267768</data>
+  <data key="d2">5.107778</data>
+</node>
+<node id="8864824">
+  <data key="d0">Chapois</data>
+  <data key="d1">50.262366</data>
+  <data key="d2">5.124255000000001</data>
+</node>
+<node id="8864832">
+  <data key="d0">Haversin</data>
+  <data key="d1">50.249044</data>
+  <data key="d2">5.194371</data>
+</node>
+<node id="8864915">
+  <data key="d0">Natoye</data>
+  <data key="d1">50.343296</data>
+  <data key="d2">5.06116</data>
+</node>
+<node id="8864923">
+  <data key="d0">Florée</data>
+  <data key="d1">50.357786</data>
+  <data key="d2">5.056099</data>
+</node>
+<node id="8864931">
+  <data key="d0">Assesse</data>
+  <data key="d1">50.368133</data>
+  <data key="d2">5.022839</data>
+</node>
+<node id="8864949">
+  <data key="d0">Courrière</data>
+  <data key="d1">50.387442</data>
+  <data key="d2">4.9960510000000005</data>
+</node>
+<node id="8864956">
+  <data key="d0">Sart-Bernard</data>
+  <data key="d1">50.406372999999995</data>
+  <data key="d2">4.949739</data>
+</node>
+<node id="8864964">
+  <data key="d0">Naninne</data>
+  <data key="d1">50.419695000000004</data>
+  <data key="d2">4.929755999999999</data>
+</node>
+<node id="8865003">
+  <data key="d0">Libramont</data>
+  <data key="d1">49.920434</data>
+  <data key="d2">5.37927</data>
+</node>
+<node id="8865110">
+  <data key="d0">Bastogne-Sud</data>
+  <data key="d1">49.999736999999996</data>
+  <data key="d2">5.7098580000000005</data>
+</node>
+<node id="8865128">
+  <data key="d0">Bastogne-Nord</data>
+  <data key="d1">50.006919</data>
+  <data key="d2">5.720744</data>
+</node>
+<node id="8865227">
+  <data key="d0">Poix-Saint-Hubert</data>
+  <data key="d1">50.019504</data>
+  <data key="d2">5.292641000000001</data>
+</node>
+<node id="8865300">
+  <data key="d0">Bertrix</data>
+  <data key="d1">49.852835</data>
+  <data key="d2">5.267193</data>
+</node>
+<node id="8865540">
+  <data key="d0">Paliseul</data>
+  <data key="d1">49.895408</data>
+  <data key="d2">5.118348999999999</data>
+</node>
+<node id="8865565">
+  <data key="d0">Carlsbourg</data>
+  <data key="d1">49.905458</data>
+  <data key="d2">5.092784</data>
+</node>
+<node id="8865615">
+  <data key="d0">Graide</data>
+  <data key="d1">49.934134</data>
+  <data key="d2">5.0430470000000005</data>
+</node>
+<node id="8865649">
+  <data key="d0">Gedinne</data>
+  <data key="d1">49.984123</data>
+  <data key="d2">4.978073</data>
+</node>
+<node id="8866001">
+  <data key="d0">Arlon</data>
+  <data key="d1">49.68053</data>
+  <data key="d2">5.809971</data>
+</node>
+<node id="8866118">
+  <data key="d0">Viville</data>
+  <data key="d1">49.688243</data>
+  <data key="d2">5.7865269999999995</data>
+</node>
+<node id="8866142">
+  <data key="d0">Habay</data>
+  <data key="d1">49.718249</data>
+  <data key="d2">5.6326849999999995</data>
+</node>
+<node id="8866175">
+  <data key="d0">Marbehan</data>
+  <data key="d1">49.727337</data>
+  <data key="d2">5.539755</data>
+</node>
+<node id="8866258">
+  <data key="d0">Neufchâteau</data>
+  <data key="d1">49.854318</data>
+  <data key="d2">5.452559</data>
+</node>
+<node id="8866407">
+  <data key="d0">Virton</data>
+  <data key="d1">49.560821000000004</data>
+  <data key="d2">5.519125</data>
+</node>
+<node id="8866530">
+  <data key="d0">Halanzy</data>
+  <data key="d1">49.5562</data>
+  <data key="d2">5.741347</data>
+</node>
+<node id="8866605">
+  <data key="d0">Athus</data>
+  <data key="d1">49.563346</data>
+  <data key="d2">5.828947</data>
+</node>
+<node id="8866654">
+  <data key="d0">Aubange</data>
+  <data key="d1">49.564093</data>
+  <data key="d2">5.7980599999999995</data>
+</node>
+<node id="8866662">
+  <data key="d0">Messancy</data>
+  <data key="d1">49.592777000000005</data>
+  <data key="d2">5.8189150000000005</data>
+</node>
+<node id="8866845">
+  <data key="d0">Florenville</data>
+  <data key="d1">49.706967</data>
+  <data key="d2">5.3311150000000005</data>
+</node>
+<node id="8871100">
+  <data key="d0">Marchienne-au-Pont</data>
+  <data key="d1">50.412171</data>
+  <data key="d2">4.394223</data>
+</node>
+<node id="8871175">
+  <data key="d0">Jamioulx</data>
+  <data key="d1">50.352896</data>
+  <data key="d2">4.411294</data>
+</node>
+<node id="8871183">
+  <data key="d0">Beignée</data>
+  <data key="d1">50.333892999999996</data>
+  <data key="d2">4.406305000000001</data>
+</node>
+<node id="8871217">
+  <data key="d0">Roux</data>
+  <data key="d1">50.443112</data>
+  <data key="d2">4.393199</data>
+</node>
+<node id="8871225">
+  <data key="d0">Courcelles-Motte</data>
+  <data key="d1">50.462007</data>
+  <data key="d2">4.4005339999999995</data>
+</node>
+<node id="8871308">
+  <data key="d0">Luttre</data>
+  <data key="d1">50.505856</data>
+  <data key="d2">4.384119999999999</data>
+</node>
+<node id="8871332">
+  <data key="d0">Obaix-Buzet</data>
+  <data key="d1">50.535206</data>
+  <data key="d2">4.363569999999999</data>
+</node>
+<node id="8871365">
+  <data key="d0">Pont-à-Celles</data>
+  <data key="d1">50.513812</data>
+  <data key="d2">4.355291</data>
+</node>
+<node id="8871373">
+  <data key="d0">Gouy-lez-Pieton</data>
+  <data key="d1">50.497065</data>
+  <data key="d2">4.3251230000000005</data>
+</node>
+<node id="8871381">
+  <data key="d0">Godarville</data>
+  <data key="d1">50.492795</data>
+  <data key="d2">4.2903080000000005</data>
+</node>
+<node id="8871415">
+  <data key="d0">Piéton</data>
+  <data key="d1">50.434959</data>
+  <data key="d2">4.288437999999999</data>
+</node>
+<node id="8871514">
+  <data key="d0">Forchies</data>
+  <data key="d1">50.433314</data>
+  <data key="d2">4.325384</data>
+</node>
+<node id="8871605">
+  <data key="d0">Erquelinnes</data>
+  <data key="d1">50.304192</data>
+  <data key="d2">4.113562</data>
+</node>
+<node id="8871647">
+  <data key="d0">Erquelinnes-Village</data>
+  <data key="d1">50.310179</data>
+  <data key="d2">4.132314</data>
+</node>
+<node id="8871662">
+  <data key="d0">Solre-sur-Sambre</data>
+  <data key="d1">50.312642</data>
+  <data key="d2">4.158427</data>
+</node>
+<node id="8871670">
+  <data key="d0">Labuissière</data>
+  <data key="d1">50.316328000000006</data>
+  <data key="d2">4.186833</data>
+</node>
+<node id="8871688">
+  <data key="d0">Fontaine-Valmont</data>
+  <data key="d1">50.321164</data>
+  <data key="d2">4.212785</data>
+</node>
+<node id="8871712">
+  <data key="d0">Lobbes</data>
+  <data key="d1">50.346469</data>
+  <data key="d2">4.2609580000000005</data>
+</node>
+<node id="8871811">
+  <data key="d0">Thuin</data>
+  <data key="d1">50.342738</data>
+  <data key="d2">4.288906</data>
+</node>
+<node id="8871829">
+  <data key="d0">Hourpes</data>
+  <data key="d1">50.363692</data>
+  <data key="d2">4.308736</data>
+</node>
+<node id="8871837">
+  <data key="d0">Landelies</data>
+  <data key="d1">50.377311</data>
+  <data key="d2">4.350976</data>
+</node>
+<node id="8871852">
+  <data key="d0">Marchienne-Zone</data>
+  <data key="d1">50.397465000000004</data>
+  <data key="d2">4.388767</data>
+</node>
+<node id="8872009">
+  <data key="d0">Charleroi-Sud</data>
+  <data key="d1">50.404709999999994</data>
+  <data key="d2">4.438567</data>
+</node>
+<node id="8872066">
+  <data key="d0">Charleroi-Ouest</data>
+  <data key="d1">50.410948</data>
+  <data key="d2">4.436653</data>
+</node>
+<node id="8872306">
+  <data key="d0">Lodelinsart</data>
+  <data key="d1">50.432451</data>
+  <data key="d2">4.462946</data>
+</node>
+<node id="8872413">
+  <data key="d0">Fleurus</data>
+  <data key="d1">50.481927</data>
+  <data key="d2">4.543741000000001</data>
+</node>
+<node id="8872520">
+  <data key="d0">Ligny</data>
+  <data key="d1">50.511726</data>
+  <data key="d2">4.566133</data>
+</node>
+<node id="8872553">
+  <data key="d0">Tilly</data>
+  <data key="d1">50.558084</data>
+  <data key="d2">4.552676</data>
+</node>
+<node id="8872579">
+  <data key="d0">Villers-la-Ville</data>
+  <data key="d1">50.578103000000006</data>
+  <data key="d2">4.533348999999999</data>
+</node>
+<node id="8872587">
+  <data key="d0">La Roche (Brabant)</data>
+  <data key="d1">50.610338</data>
+  <data key="d2">4.539157</data>
+</node>
+<node id="8872611">
+  <data key="d0">Faux</data>
+  <data key="d1">50.621826</data>
+  <data key="d2">4.549259999999999</data>
+</node>
+<node id="8873007">
+  <data key="d0">Walcourt</data>
+  <data key="d1">50.259219</data>
+  <data key="d2">4.435879</data>
+</node>
+<node id="8873122">
+  <data key="d0">Philippeville</data>
+  <data key="d1">50.191639</data>
+  <data key="d2">4.535956</data>
+</node>
+<node id="8873239">
+  <data key="d0">Yves-Gomezée</data>
+  <data key="d1">50.237133</data>
+  <data key="d2">4.492709</data>
+</node>
+<node id="8873312">
+  <data key="d0">Pry</data>
+  <data key="d1">50.269278</data>
+  <data key="d2">4.4288050000000005</data>
+</node>
+<node id="8873320">
+  <data key="d0">Berzée</data>
+  <data key="d1">50.285603</data>
+  <data key="d2">4.405908999999999</data>
+</node>
+<node id="8873379">
+  <data key="d0">Cour-sur-Heure</data>
+  <data key="d1">50.300138000000004</data>
+  <data key="d2">4.391491</data>
+</node>
+<node id="8873387">
+  <data key="d0">Ham-sur-Heure</data>
+  <data key="d1">50.319555</data>
+  <data key="d2">4.4046959999999995</data>
+</node>
+<node id="8874005">
+  <data key="d0">Châtelet</data>
+  <data key="d1">50.410103</data>
+  <data key="d2">4.521861</data>
+</node>
+<node id="8874054">
+  <data key="d0">Couillet</data>
+  <data key="d1">50.392718</data>
+  <data key="d2">4.46851</data>
+</node>
+<node id="8874559">
+  <data key="d0">Le Campinaire</data>
+  <data key="d1">50.428936</data>
+  <data key="d2">4.552586</data>
+</node>
+<node id="8874567">
+  <data key="d0">Farciennes</data>
+  <data key="d1">50.435246</data>
+  <data key="d2">4.564138</data>
+</node>
+<node id="8874583">
+  <data key="d0">Aiseau</data>
+  <data key="d1">50.429528999999995</data>
+  <data key="d2">4.5845519999999995</data>
+</node>
+<node id="8874609">
+  <data key="d0">Tamines</data>
+  <data key="d1">50.432235</data>
+  <data key="d2">4.608823</data>
+</node>
+<node id="8874716">
+  <data key="d0">Auvelais</data>
+  <data key="d1">50.449197</data>
+  <data key="d2">4.630532</data>
+</node>
+<node id="8874724">
+  <data key="d0">Jemeppe-sur-Sambre</data>
+  <data key="d1">50.45095</data>
+  <data key="d2">4.662632</data>
+</node>
+<node id="8875002">
+  <data key="d0">Mariembourg</data>
+  <data key="d1">50.095490000000005</data>
+  <data key="d2">4.525691</data>
+</node>
+<node id="8875127">
+  <data key="d0">Couvin</data>
+  <data key="d1">50.056324</data>
+  <data key="d2">4.491702</data>
+</node>
+<node id="8881000">
+  <data key="d0">Mons</data>
+  <data key="d1">50.453854</data>
+  <data key="d2">3.942542</data>
+</node>
+<node id="8881125">
+  <data key="d0">Ghlin</data>
+  <data key="d1">50.487411</data>
+  <data key="d2">3.906343</data>
+</node>
+<node id="8881158">
+  <data key="d0">Erbisœul</data>
+  <data key="d1">50.507025</data>
+  <data key="d2">3.8879870000000003</data>
+</node>
+<node id="8881166">
+  <data key="d0">Jurbeke</data>
+  <data key="d1">50.530496</data>
+  <data key="d2">3.9106940000000003</data>
+</node>
+<node id="8881174">
+  <data key="d0">Masnuy-Saint-Pierre</data>
+  <data key="d1">50.536546</data>
+  <data key="d2">3.962139</data>
+</node>
+<node id="8881190">
+  <data key="d0">Lens</data>
+  <data key="d1">50.559342</data>
+  <data key="d2">3.903224</data>
+</node>
+<node id="8881315">
+  <data key="d0">Nimy</data>
+  <data key="d1">50.471644</data>
+  <data key="d2">3.956089</data>
+</node>
+<node id="8881406">
+  <data key="d0">Obourg</data>
+  <data key="d1">50.469873</data>
+  <data key="d2">4.007804</data>
+</node>
+<node id="8881430">
+  <data key="d0">Havre</data>
+  <data key="d1">50.470754</data>
+  <data key="d2">4.0599870000000005</data>
+</node>
+<node id="8881455">
+  <data key="d0">Thieu</data>
+  <data key="d1">50.46954</data>
+  <data key="d2">4.098523</data>
+</node>
+<node id="8881463">
+  <data key="d0">Bracquegnies</data>
+  <data key="d1">50.474457</data>
+  <data key="d2">4.126345</data>
+</node>
+<node id="8881505">
+  <data key="d0">Quevy</data>
+  <data key="d1">50.341534</data>
+  <data key="d2">3.9094889999999998</data>
+</node>
+<node id="8881562">
+  <data key="d0">Genly</data>
+  <data key="d1">50.390642</data>
+  <data key="d2">3.911638</data>
+</node>
+<node id="8881570">
+  <data key="d0">Frameries</data>
+  <data key="d1">50.405932</data>
+  <data key="d2">3.906586</data>
+</node>
+<node id="8882107">
+  <data key="d0">La Louvière-Centre</data>
+  <data key="d1">50.478161</data>
+  <data key="d2">4.179858</data>
+</node>
+<node id="8882206">
+  <data key="d0">La Louvière-Sud</data>
+  <data key="d1">50.464974</data>
+  <data key="d2">4.190608999999999</data>
+</node>
+<node id="8882230">
+  <data key="d0">Morlanwelz</data>
+  <data key="d1">50.457997999999996</data>
+  <data key="d2">4.247367</data>
+</node>
+<node id="8882248">
+  <data key="d0">Carnieres</data>
+  <data key="d1">50.447957</data>
+  <data key="d2">4.263826</data>
+</node>
+<node id="8882339">
+  <data key="d0">Leval</data>
+  <data key="d1">50.430797</data>
+  <data key="d2">4.211041000000001</data>
+</node>
+<node id="8882362">
+  <data key="d0">Binche</data>
+  <data key="d1">50.408764</data>
+  <data key="d2">4.172451000000001</data>
+</node>
+<node id="8882701">
+  <data key="d0">Manage</data>
+  <data key="d1">50.506108000000005</data>
+  <data key="d2">4.234683</data>
+</node>
+<node id="8883006">
+  <data key="d0">Braine-le-Comte</data>
+  <data key="d1">50.605078999999996</data>
+  <data key="d2">4.137662000000001</data>
+</node>
+<node id="8883022">
+  <data key="d0">Hennuyères</data>
+  <data key="d1">50.651005</data>
+  <data key="d2">4.175893</data>
+</node>
+<node id="8883113">
+  <data key="d0">Soignies</data>
+  <data key="d1">50.572763</data>
+  <data key="d2">4.067519</data>
+</node>
+<node id="8883121">
+  <data key="d0">Neufvilles</data>
+  <data key="d1">50.543602</data>
+  <data key="d2">4.0106720000000005</data>
+</node>
+<node id="8883212">
+  <data key="d0">Écaussinnes</data>
+  <data key="d1">50.56239</data>
+  <data key="d2">4.156639</data>
+</node>
+<node id="8883220">
+  <data key="d0">Marche-lez-Écaussinnes</data>
+  <data key="d1">50.546172999999996</data>
+  <data key="d2">4.177098</data>
+</node>
+<node id="8883238">
+  <data key="d0">Familleureux</data>
+  <data key="d1">50.519358000000004</data>
+  <data key="d2">4.211581</data>
+</node>
+<node id="8883311">
+  <data key="d0">Enghien</data>
+  <data key="d1">50.697272999999996</data>
+  <data key="d2">4.047357</data>
+</node>
+<node id="8883436">
+  <data key="d0">Silly</data>
+  <data key="d1">50.662386</data>
+  <data key="d2">3.935863</data>
+</node>
+<node id="8883808">
+  <data key="d0">Tubize</data>
+  <data key="d1">50.691708</data>
+  <data key="d2">4.205729</data>
+</node>
+<node id="8884004">
+  <data key="d0">Saint-Ghislain</data>
+  <data key="d1">50.442859999999996</data>
+  <data key="d2">3.8202529999999997</data>
+</node>
+<node id="8884319">
+  <data key="d0">Boussu</data>
+  <data key="d1">50.436388</data>
+  <data key="d2">3.797025</data>
+</node>
+<node id="8884327">
+  <data key="d0">Hainin</data>
+  <data key="d1">50.428019</data>
+  <data key="d2">3.766893</data>
+</node>
+<node id="8884335">
+  <data key="d0">Quievrain</data>
+  <data key="d1">50.410103</data>
+  <data key="d2">3.6860800000000005</data>
+</node>
+<node id="8884350">
+  <data key="d0">Thulin</data>
+  <data key="d1">50.423334999999994</data>
+  <data key="d2">3.744708</data>
+</node>
+<node id="8884541">
+  <data key="d0">Quaregnon</data>
+  <data key="d1">50.449827</data>
+  <data key="d2">3.856543</data>
+</node>
+<node id="8884566">
+  <data key="d0">Jemappes</data>
+  <data key="d1">50.452577000000005</data>
+  <data key="d2">3.885587</data>
+</node>
+<node id="8884632">
+  <data key="d0">Ville-Pommerœul</data>
+  <data key="d1">50.464542</data>
+  <data key="d2">3.7242480000000002</data>
+</node>
+<node id="8884640">
+  <data key="d0">Harchies</data>
+  <data key="d1">50.482565</data>
+  <data key="d2">3.698764</data>
+</node>
+<node id="8884715">
+  <data key="d0">Blaton</data>
+  <data key="d1">50.505461</data>
+  <data key="d2">3.6663040000000002</data>
+</node>
+<node id="8884855">
+  <data key="d0">Péruwelz</data>
+  <data key="d1">50.513704</data>
+  <data key="d2">3.592772</data>
+</node>
+<node id="8884889">
+  <data key="d0">Callenelle</data>
+  <data key="d1">50.527359000000004</data>
+  <data key="d2">3.52618</data>
+</node>
+<node id="8885001">
+  <data key="d0">Tournai</data>
+  <data key="d1">50.613134</data>
+  <data key="d2">3.3969419999999997</data>
+</node>
+<node id="8885068">
+  <data key="d0">Froyennes</data>
+  <data key="d1">50.62989</data>
+  <data key="d2">3.3548370000000003</data>
+</node>
+<node id="8885522">
+  <data key="d0">Antoing</data>
+  <data key="d1">50.569626</data>
+  <data key="d2">3.4513089999999997</data>
+</node>
+<node id="8885530">
+  <data key="d0">Maubray</data>
+  <data key="d1">50.547557</data>
+  <data key="d2">3.4955269999999996</data>
+</node>
+<node id="8885704">
+  <data key="d0">Mouscron</data>
+  <data key="d1">50.741005</data>
+  <data key="d2">3.2284479999999998</data>
+</node>
+<node id="8885753">
+  <data key="d0">Herseaux</data>
+  <data key="d1">50.713894</data>
+  <data key="d2">3.245959</data>
+</node>
+<node id="8886009">
+  <data key="d0">Ath</data>
+  <data key="d1">50.626932000000004</data>
+  <data key="d2">3.777429</data>
+</node>
+<node id="8886041">
+  <data key="d0">Maffle</data>
+  <data key="d1">50.614356</data>
+  <data key="d2">3.8001169999999997</data>
+</node>
+<node id="8886058">
+  <data key="d0">Mevergnies-Attre</data>
+  <data key="d1">50.600108</data>
+  <data key="d2">3.833917</data>
+</node>
+<node id="8886066">
+  <data key="d0">Brugelette</data>
+  <data key="d1">50.594229</data>
+  <data key="d2">3.852551</data>
+</node>
+<node id="8886074">
+  <data key="d0">Cambron-Casteau</data>
+  <data key="d1">50.586759</data>
+  <data key="d2">3.8748089999999995</data>
+</node>
+<node id="8886348">
+  <data key="d0">Leuze</data>
+  <data key="d1">50.600612</data>
+  <data key="d2">3.6168720000000003</data>
+</node>
+<node id="8886504">
+  <data key="d0">Lessen</data>
+  <data key="d1">50.712015</data>
+  <data key="d2">3.8364339999999997</data>
+</node>
+<node id="8886546">
+  <data key="d0">Acren</data>
+  <data key="d1">50.733095</data>
+  <data key="d2">3.847086</data>
+</node>
+<node id="8886553">
+  <data key="d0">Houraing</data>
+  <data key="d1">50.703062</data>
+  <data key="d2">3.835175</data>
+</node>
+<node id="8886561">
+  <data key="d0">Papegem</data>
+  <data key="d1">50.686585</data>
+  <data key="d2">3.823408</data>
+</node>
+<node id="8886587">
+  <data key="d0">Rebaix</data>
+  <data key="d1">50.661235</data>
+  <data key="d2">3.793627</data>
+</node>
+<node id="8891009">
+  <data key="d0">Brugge</data>
+  <data key="d1">51.197226</data>
+  <data key="d2">3.216726</data>
+</node>
+<node id="8891033">
+  <data key="d0">Brugge-Sint-Pieters</data>
+  <data key="d1">51.223115</data>
+  <data key="d2">3.201795</data>
+</node>
+<node id="8891116">
+  <data key="d0">Oostkamp</data>
+  <data key="d1">51.154114</data>
+  <data key="d2">3.257466</data>
+</node>
+<node id="8891124">
+  <data key="d0">Beernem</data>
+  <data key="d1">51.128009000000006</data>
+  <data key="d2">3.3298919999999996</data>
+</node>
+<node id="8891132">
+  <data key="d0">Maria-Aalter</data>
+  <data key="d1">51.107611999999996</data>
+  <data key="d2">3.3867300000000005</data>
+</node>
+<node id="8891140">
+  <data key="d0">Aalter</data>
+  <data key="d1">51.092295</data>
+  <data key="d2">3.4478480000000005</data>
+</node>
+<node id="8891157">
+  <data key="d0">Bellem</data>
+  <data key="d1">51.083908</data>
+  <data key="d2">3.487374</data>
+</node>
+<node id="8891165">
+  <data key="d0">Hansbeke</data>
+  <data key="d1">51.073202</data>
+  <data key="d2">3.5362120000000004</data>
+</node>
+<node id="8891173">
+  <data key="d0">Zeebrugge-Strand</data>
+  <data key="d1">51.324549</data>
+  <data key="d2">3.1866659999999998</data>
+</node>
+<node id="8891264">
+  <data key="d0">Zedelgem</data>
+  <data key="d1">51.127047</data>
+  <data key="d2">3.16414</data>
+</node>
+<node id="8891314">
+  <data key="d0">Torhout</data>
+  <data key="d1">51.064707</data>
+  <data key="d2">3.105871</data>
+</node>
+<node id="8891405">
+  <data key="d0">Blankenberge</data>
+  <data key="d1">51.312432</data>
+  <data key="d2">3.133864</data>
+</node>
+<node id="8891553">
+  <data key="d0">Zeebrugge-Dorp</data>
+  <data key="d1">51.326383</data>
+  <data key="d2">3.19517</data>
+</node>
+<node id="8891611">
+  <data key="d0">Zwankendamme</data>
+  <data key="d1">51.306409</data>
+  <data key="d2">3.191557</data>
+</node>
+<node id="8891629">
+  <data key="d0">Lissewege</data>
+  <data key="d1">51.294714</data>
+  <data key="d2">3.194505</data>
+</node>
+<node id="8891645">
+  <data key="d0">Heist</data>
+  <data key="d1">51.333979</data>
+  <data key="d2">3.2391810000000003</data>
+</node>
+<node id="8891652">
+  <data key="d0">Duinbergen</data>
+  <data key="d1">51.338195</data>
+  <data key="d2">3.263587</data>
+</node>
+<node id="8891660">
+  <data key="d0">Knokke</data>
+  <data key="d1">51.339894</data>
+  <data key="d2">3.2851879999999998</data>
+</node>
+<node id="8891702">
+  <data key="d0">Oostende</data>
+  <data key="d1">51.228212</data>
+  <data key="d2">2.925809</data>
+</node>
+<node id="8892007">
+  <data key="d0">Gent-Sint-Pieters</data>
+  <data key="d1">51.035896</data>
+  <data key="d2">3.710675</data>
+</node>
+<node id="8892031">
+  <data key="d0">Drongen</data>
+  <data key="d1">51.047295</data>
+  <data key="d2">3.6552019999999996</data>
+</node>
+<node id="8892056">
+  <data key="d0">Landegem</data>
+  <data key="d1">51.064311</data>
+  <data key="d2">3.5768519999999997</data>
+</node>
+<node id="8892080">
+  <data key="d0">De Pinte</data>
+  <data key="d1">50.997063</data>
+  <data key="d2">3.650465</data>
+</node>
+<node id="8892106">
+  <data key="d0">Deinze</data>
+  <data key="d1">50.978258000000004</data>
+  <data key="d2">3.534432</data>
+</node>
+<node id="8892205">
+  <data key="d0">Lichtervelde</data>
+  <data key="d1">51.025163</data>
+  <data key="d2">3.127212</data>
+</node>
+<node id="8892254">
+  <data key="d0">Tielt</data>
+  <data key="d1">50.990842</data>
+  <data key="d2">3.330341</data>
+</node>
+<node id="8892288">
+  <data key="d0">Aarsele</data>
+  <data key="d1">50.98446</data>
+  <data key="d2">3.418363</data>
+</node>
+<node id="8892304">
+  <data key="d0">Veurne</data>
+  <data key="d1">51.073867</data>
+  <data key="d2">2.66994</data>
+</node>
+<node id="8892320">
+  <data key="d0">Koksijde</data>
+  <data key="d1">51.079197</data>
+  <data key="d2">2.6527700000000003</data>
+</node>
+<node id="8892338">
+  <data key="d0">De Panne</data>
+  <data key="d1">51.0774</data>
+  <data key="d2">2.601963</data>
+</node>
+<node id="8892403">
+  <data key="d0">Kortemark</data>
+  <data key="d1">51.025244</data>
+  <data key="d2">3.043459</data>
+</node>
+<node id="8892452">
+  <data key="d0">Diksmuide</data>
+  <data key="d1">51.032723</data>
+  <data key="d2">2.8689430000000002</data>
+</node>
+<node id="8892601">
+  <data key="d0">Oudenaarde</data>
+  <data key="d1">50.850116</data>
+  <data key="d2">3.600386</data>
+</node>
+<node id="8892627">
+  <data key="d0">Eine</data>
+  <data key="d1">50.870432</data>
+  <data key="d2">3.6237760000000003</data>
+</node>
+<node id="8892635">
+  <data key="d0">Zingem</data>
+  <data key="d1">50.908025</data>
+  <data key="d2">3.646384</data>
+</node>
+<node id="8892643">
+  <data key="d0">Gavere-Asper</data>
+  <data key="d1">50.930021</data>
+  <data key="d2">3.639732</data>
+</node>
+<node id="8892650">
+  <data key="d0">Eke-Nazareth</data>
+  <data key="d1">50.960774</data>
+  <data key="d2">3.627839</data>
+</node>
+<node id="8892692">
+  <data key="d0">Sint-Denijs-Boekel</data>
+  <data key="d1">50.874297</data>
+  <data key="d2">3.6983949999999997</data>
+</node>
+<node id="8892734">
+  <data key="d0">Anzegem</data>
+  <data key="d1">50.826384999999995</data>
+  <data key="d2">3.495014</data>
+</node>
+<node id="8892908">
+  <data key="d0">Ronse</data>
+  <data key="d1">50.742506</data>
+  <data key="d2">3.6025519999999998</data>
+</node>
+<node id="8893013">
+  <data key="d0">Merelbeke</data>
+  <data key="d1">51.017531</data>
+  <data key="d2">3.768889</data>
+</node>
+<node id="8893039">
+  <data key="d0">Melle</data>
+  <data key="d1">51.002807000000004</data>
+  <data key="d2">3.7970879999999996</data>
+</node>
+<node id="8893047">
+  <data key="d0">Gontrode</data>
+  <data key="d1">50.980199</data>
+  <data key="d2">3.801672</data>
+</node>
+<node id="8893054">
+  <data key="d0">Landskouter</data>
+  <data key="d1">50.970545</data>
+  <data key="d2">3.791146</data>
+</node>
+<node id="8893062">
+  <data key="d0">Moortsele</data>
+  <data key="d1">50.953519</data>
+  <data key="d2">3.781339</data>
+</node>
+<node id="8893070">
+  <data key="d0">Scheldewindeke</data>
+  <data key="d1">50.937069</data>
+  <data key="d2">3.7778419999999997</data>
+</node>
+<node id="8893120">
+  <data key="d0">Gent-Dampoort</data>
+  <data key="d1">51.056365</data>
+  <data key="d2">3.740591</data>
+</node>
+<node id="8893179">
+  <data key="d0">Gentbrugge</data>
+  <data key="d1">51.038647</data>
+  <data key="d2">3.756322</data>
+</node>
+<node id="8893211">
+  <data key="d0">Wondelgem</data>
+  <data key="d1">51.088357</data>
+  <data key="d2">3.719071</data>
+</node>
+<node id="8893252">
+  <data key="d0">Evergem</data>
+  <data key="d1">51.107585</data>
+  <data key="d2">3.7013800000000003</data>
+</node>
+<node id="8893260">
+  <data key="d0">Sleidinge</data>
+  <data key="d1">51.126607</data>
+  <data key="d2">3.667526</data>
+</node>
+<node id="8893401">
+  <data key="d0">Dendermonde</data>
+  <data key="d1">51.022781</data>
+  <data key="d2">4.101426999999999</data>
+</node>
+<node id="8893443">
+  <data key="d0">Sint-Gillis-Dendermonde</data>
+  <data key="d1">51.021693</data>
+  <data key="d2">4.117832</data>
+</node>
+<node id="8893518">
+  <data key="d0">Oudegem</data>
+  <data key="d1">51.015229999999995</data>
+  <data key="d2">4.064472</data>
+</node>
+<node id="8893526">
+  <data key="d0">Schoonaarde</data>
+  <data key="d1">51.003149</data>
+  <data key="d2">4.011094</data>
+</node>
+<node id="8893534">
+  <data key="d0">Wichelen</data>
+  <data key="d1">51.001962</data>
+  <data key="d2">3.9691949999999996</data>
+</node>
+<node id="8893542">
+  <data key="d0">Schellebelle</data>
+  <data key="d1">51.003149</data>
+  <data key="d2">3.9213730000000004</data>
+</node>
+<node id="8893559">
+  <data key="d0">Wetteren</data>
+  <data key="d1">51.001603</data>
+  <data key="d2">3.881883</data>
+</node>
+<node id="8893567">
+  <data key="d0">Kwatrecht</data>
+  <data key="d1">50.99175</data>
+  <data key="d2">3.829593</data>
+</node>
+<node id="8893583">
+  <data key="d0">Serskamp</data>
+  <data key="d1">50.984396999999994</data>
+  <data key="d2">3.959361</data>
+</node>
+<node id="8893708">
+  <data key="d0">Eeklo</data>
+  <data key="d1">51.181333</data>
+  <data key="d2">3.5745150000000003</data>
+</node>
+<node id="8893815">
+  <data key="d0">Waarschoot</data>
+  <data key="d1">51.154608</data>
+  <data key="d2">3.615353</data>
+</node>
+<node id="8894151">
+  <data key="d0">Beervelde</data>
+  <data key="d1">51.08753</data>
+  <data key="d2">3.8793839999999995</data>
+</node>
+<node id="8894201">
+  <data key="d0">Lokeren</data>
+  <data key="d1">51.108062</data>
+  <data key="d2">3.987794</data>
+</node>
+<node id="8894235">
+  <data key="d0">Zele</data>
+  <data key="d1">51.073256</data>
+  <data key="d2">4.041999</data>
+</node>
+<node id="8894425">
+  <data key="d0">Sinaai</data>
+  <data key="d1">51.143398</data>
+  <data key="d2">4.0689400000000004</data>
+</node>
+<node id="8894433">
+  <data key="d0">Belsele</data>
+  <data key="d1">51.150994</data>
+  <data key="d2">4.088608</data>
+</node>
+<node id="8894508">
+  <data key="d0">Sint-Niklaas</data>
+  <data key="d1">51.171471999999994</data>
+  <data key="d2">4.142966</data>
+</node>
+<node id="8894672">
+  <data key="d0">Temse</data>
+  <data key="d1">51.126084999999996</data>
+  <data key="d2">4.2213519999999995</data>
+</node>
+<node id="8894714">
+  <data key="d0">Nieuwkerken-Waas</data>
+  <data key="d1">51.185612</data>
+  <data key="d2">4.185907</data>
+</node>
+<node id="8894748">
+  <data key="d0">Beveren</data>
+  <data key="d1">51.208335999999996</data>
+  <data key="d2">4.259519999999999</data>
+</node>
+<node id="8894755">
+  <data key="d0">Melsele</data>
+  <data key="d1">51.21071</data>
+  <data key="d2">4.286766</data>
+</node>
+<node id="8894821">
+  <data key="d0">Zwijndrecht</data>
+  <data key="d1">51.214108</data>
+  <data key="d2">4.32978</data>
+</node>
+<node id="8895000">
+  <data key="d0">Aalst</data>
+  <data key="d1">50.942813</data>
+  <data key="d2">4.0396529999999995</data>
+</node>
+<node id="8895067">
+  <data key="d0">Lede</data>
+  <data key="d1">50.970895</data>
+  <data key="d2">3.984981</data>
+</node>
+<node id="8895091">
+  <data key="d0">Erembodegem</data>
+  <data key="d1">50.919621</data>
+  <data key="d2">4.055447</data>
+</node>
+<node id="8895125">
+  <data key="d0">Aalst-Kerrebroek</data>
+  <data key="d1">50.948377</data>
+  <data key="d2">4.024407</data>
+</node>
+<node id="8895208">
+  <data key="d0">Zottegem</data>
+  <data key="d1">50.869102000000005</data>
+  <data key="d2">3.8144099999999996</data>
+</node>
+<node id="8895232">
+  <data key="d0">Munkzwalm</data>
+  <data key="d1">50.875673</data>
+  <data key="d2">3.7332379999999996</data>
+</node>
+<node id="8895240">
+  <data key="d0">Balegem-Zuid</data>
+  <data key="d1">50.90051</data>
+  <data key="d2">3.8058699999999996</data>
+</node>
+<node id="8895257">
+  <data key="d0">Balegem-Dorp</data>
+  <data key="d1">50.919612</data>
+  <data key="d2">3.791425</data>
+</node>
+<node id="8895422">
+  <data key="d0">Hillegem</data>
+  <data key="d1">50.891296000000004</data>
+  <data key="d2">3.857469</data>
+</node>
+<node id="8895430">
+  <data key="d0">Herzele</data>
+  <data key="d1">50.897220000000004</data>
+  <data key="d2">3.8806160000000003</data>
+</node>
+<node id="8895448">
+  <data key="d0">Terhagen</data>
+  <data key="d1">50.901643</data>
+  <data key="d2">3.8966529999999997</data>
+</node>
+<node id="8895455">
+  <data key="d0">Burst</data>
+  <data key="d1">50.907198</data>
+  <data key="d2">3.9224160000000006</data>
+</node>
+<node id="8895463">
+  <data key="d0">Bambrugge</data>
+  <data key="d1">50.913769</data>
+  <data key="d2">3.935711</data>
+</node>
+<node id="8895471">
+  <data key="d0">Erpe-Mere</data>
+  <data key="d1">50.928601</data>
+  <data key="d2">3.9624629999999996</data>
+</node>
+<node id="8895489">
+  <data key="d0">Vijfhuizen</data>
+  <data key="d1">50.943253999999996</data>
+  <data key="d2">3.98125</data>
+</node>
+<node id="8895505">
+  <data key="d0">Geraardsbergen</data>
+  <data key="d1">50.771137</data>
+  <data key="d2">3.872328</data>
+</node>
+<node id="8895570">
+  <data key="d0">Lierde</data>
+  <data key="d1">50.816235999999996</data>
+  <data key="d2">3.826564</data>
+</node>
+<node id="8895612">
+  <data key="d0">Viane-Moerbeke</data>
+  <data key="d1">50.751981</data>
+  <data key="d2">3.9173370000000003</data>
+</node>
+<node id="8895620">
+  <data key="d0">Galmaarden</data>
+  <data key="d1">50.743918</data>
+  <data key="d2">3.965726</data>
+</node>
+<node id="8895638">
+  <data key="d0">Tollembeek</data>
+  <data key="d1">50.735521999999996</data>
+  <data key="d2">3.992828</data>
+</node>
+<node id="8895646">
+  <data key="d0">Herne</data>
+  <data key="d1">50.723701</data>
+  <data key="d2">4.014573</data>
+</node>
+<node id="8895711">
+  <data key="d0">Schendelbeke</data>
+  <data key="d1">50.797844</data>
+  <data key="d2">3.899286</data>
+</node>
+<node id="8895729">
+  <data key="d0">Idegem</data>
+  <data key="d1">50.801871000000006</data>
+  <data key="d2">3.921553</data>
+</node>
+<node id="8895737">
+  <data key="d0">Zandbergen</data>
+  <data key="d1">50.806986</data>
+  <data key="d2">3.957653</data>
+</node>
+<node id="8895745">
+  <data key="d0">Appelterre</data>
+  <data key="d1">50.813063</data>
+  <data key="d2">3.972108</data>
+</node>
+<node id="8895752">
+  <data key="d0">Eichem</data>
+  <data key="d1">50.823994</data>
+  <data key="d2">3.9937449999999997</data>
+</node>
+<node id="8895760">
+  <data key="d0">Ninove</data>
+  <data key="d1">50.839509</data>
+  <data key="d2">4.026133</data>
+</node>
+<node id="8895778">
+  <data key="d0">Okegem</data>
+  <data key="d1">50.857712</data>
+  <data key="d2">4.054557</data>
+</node>
+<node id="8895802">
+  <data key="d0">Denderleeuw</data>
+  <data key="d1">50.891925</data>
+  <data key="d2">4.071825</data>
+</node>
+<node id="8895836">
+  <data key="d0">Liedekerke</data>
+  <data key="d1">50.882531</data>
+  <data key="d2">4.095287</data>
+</node>
+<node id="8895844">
+  <data key="d0">Iddergem</data>
+  <data key="d1">50.876886</data>
+  <data key="d2">4.06849</data>
+</node>
+<node id="8895851">
+  <data key="d0">Welle</data>
+  <data key="d1">50.903279</data>
+  <data key="d2">4.050619999999999</data>
+</node>
+<node id="8895869">
+  <data key="d0">Haaltert</data>
+  <data key="d1">50.906838</data>
+  <data key="d2">4.023958</data>
+</node>
+<node id="8895877">
+  <data key="d0">Ede</data>
+  <data key="d1">50.911054</data>
+  <data key="d2">3.9875239999999996</data>
+</node>
+<node id="8896008">
+  <data key="d0">Kortrijk</data>
+  <data key="d1">50.824506</data>
+  <data key="d2">3.264549</data>
+</node>
+<node id="8896115">
+  <data key="d0">Harelbeke</data>
+  <data key="d1">50.85586</data>
+  <data key="d2">3.3140080000000003</data>
+</node>
+<node id="8896149">
+  <data key="d0">Waregem</data>
+  <data key="d1">50.892456</data>
+  <data key="d2">3.42551</data>
+</node>
+<node id="8896230">
+  <data key="d0">Vichte</data>
+  <data key="d1">50.833657</data>
+  <data key="d2">3.39163</data>
+</node>
+<node id="8896305">
+  <data key="d0">Menen</data>
+  <data key="d1">50.799489</data>
+  <data key="d2">3.113791</data>
+</node>
+<node id="8896370">
+  <data key="d0">Wevelgem</data>
+  <data key="d1">50.811526</data>
+  <data key="d2">3.18352</data>
+</node>
+<node id="8896388">
+  <data key="d0">Bissegem</data>
+  <data key="d1">50.825845</data>
+  <data key="d2">3.224205</data>
+</node>
+<node id="8896396">
+  <data key="d0">Wervik</data>
+  <data key="d1">50.781861</data>
+  <data key="d2">3.046983</data>
+</node>
+<node id="8896412">
+  <data key="d0">Comines</data>
+  <data key="d1">50.772071999999994</data>
+  <data key="d2">2.999286</data>
+</node>
+<node id="8896503">
+  <data key="d0">Ieper</data>
+  <data key="d1">50.847402</data>
+  <data key="d2">2.876593</data>
+</node>
+<node id="8896735">
+  <data key="d0">Poperinge</data>
+  <data key="d1">50.854449</data>
+  <data key="d2">2.736343</data>
+</node>
+<node id="8896800">
+  <data key="d0">Roeselare</data>
+  <data key="d1">50.949025</data>
+  <data key="d2">3.1304119999999998</data>
+</node>
+<node id="8896909">
+  <data key="d0">Izegem</data>
+  <data key="d1">50.921149</data>
+  <data key="d2">3.212088</data>
+</node>
+<node id="8896925">
+  <data key="d0">Ingelmunster</data>
+  <data key="d1">50.914326</data>
+  <data key="d2">3.255416</data>
+</node>
+<node id="8022054">
+  <data key="d0">Michelau</data>
+  <data key="d1">49.896440000000005</data>
+  <data key="d2">6.09251</data>
+</node>
+<node id="8000001">
+  <data key="d0">Dommeldange</data>
+  <data key="d1">49.63387</data>
+  <data key="d2">6.134531299999999</data>
+</node>
+<node id="8815016">
+  <data key="d0">Thurn En Taxis</data>
+  <data key="d1">50.8642714</data>
+  <data key="d2">4.348592900000001</data>
+</node>
+<node id="8811403">
+  <data key="d0">Mouterij</data>
+  <data key="d1">50.829929</data>
+  <data key="d2">4.37866</data>
+</node>
+<edge source="8015345" target="8844644">
+  <data key="d3">7.383335476413565</data>
+</edge>
+<edge source="8200100" target="8200940">
+  <data key="d3">21.488541060002003</data>
+</edge>
+<edge source="8200100" target="8200510">
+  <data key="d3">5.438367686840811</data>
+</edge>
+<edge source="8200100" target="8000001">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200110" target="8200120">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200110" target="8000001">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200120" target="8022054">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200130" target="8200132">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200130" target="8022054">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200132" target="8200133">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200133" target="8200134">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200134" target="8200136">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200136" target="8845005">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8200510" target="8200516">
+  <data key="d3">3.2379762092969413</data>
+</edge>
+<edge source="8200510" target="8210014">
+  <data key="d3">2.308291265253587</data>
+</edge>
+<edge source="8200516" target="8200518">
+  <data key="d3">3.0135511028783357</data>
+</edge>
+<edge source="8200516" target="8210014">
+  <data key="d3">1.059485192377903</data>
+</edge>
+<edge source="8200518" target="8200520">
+  <data key="d3">5.364183521097907</data>
+</edge>
+<edge source="8200520" target="8866001">
+  <data key="d3">8.550930470616077</data>
+</edge>
+<edge source="8200940" target="8866605">
+  <data key="d3">1.7738732296353956</data>
+</edge>
+<edge source="8400219" target="8846201">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8400219" target="8400426">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8400424" target="8846201">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8400526" target="8821402">
+  <data key="d3">7.920714838159364</data>
+</edge>
+<edge source="8722326" target="8728105">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8722326" target="8728600">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728105" target="8728671">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728600" target="8728606">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728606" target="8728710">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728654" target="8885704">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728654" target="8728673">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728671" target="8728673">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728683" target="8728685">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728683" target="8728710">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728685" target="8728686">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728686" target="8728687">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8728687" target="8885068">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8811007" target="8812005">
+  <data key="d3">2.4404033962609764</data>
+</edge>
+<edge source="8811007" target="8811148">
+  <data key="d3">4.202962221505781</data>
+</edge>
+<edge source="8811007" target="8811130">
+  <data key="d3">2.861369039599174</data>
+</edge>
+<edge source="8811007" target="8811916">
+  <data key="d3">3.9221409695548943</data>
+</edge>
+<edge source="8811106" target="8811163">
+  <data key="d3">1.281772787192631</data>
+</edge>
+<edge source="8811106" target="8811171">
+  <data key="d3">1.5924568221066777</data>
+</edge>
+<edge source="8811130" target="8811213">
+  <data key="d3">1.925676468255328</data>
+</edge>
+<edge source="8811148" target="8811189">
+  <data key="d3">2.198264544802015</data>
+</edge>
+<edge source="8811155" target="8811163">
+  <data key="d3">1.4178079290762622</data>
+</edge>
+<edge source="8811155" target="8811189">
+  <data key="d3">4.072371257216021</data>
+</edge>
+<edge source="8811163" target="8811213">
+  <data key="d3">2.697099239688157</data>
+</edge>
+<edge source="8811171" target="8811197">
+  <data key="d3">1.6751249187437685</data>
+</edge>
+<edge source="8811171" target="8811916">
+  <data key="d3">1.5386804096894386</data>
+</edge>
+<edge source="8811189" target="8822269">
+  <data key="d3">4.139744753699048</data>
+</edge>
+<edge source="8811197" target="8811205">
+  <data key="d3">2.353387483107803</data>
+</edge>
+<edge source="8811205" target="8811411">
+  <data key="d3">1.095059219577637</data>
+</edge>
+<edge source="8811205" target="8814456">
+  <data key="d3">1.9974777524170528</data>
+</edge>
+<edge source="8811213" target="8811221">
+  <data key="d3">1.9745449221628628</data>
+</edge>
+<edge source="8811221" target="8811247">
+  <data key="d3">2.5561803555037774</data>
+</edge>
+<edge source="8811221" target="8819406">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8811247" target="8811254">
+  <data key="d3">2.825981370515521</data>
+</edge>
+<edge source="8811254" target="8811262">
+  <data key="d3">2.950539813981828</data>
+</edge>
+<edge source="8811254" target="8811288">
+  <data key="d3">9.116338438583169</data>
+</edge>
+<edge source="8811262" target="8811270">
+  <data key="d3">3.4325221602120704</data>
+</edge>
+<edge source="8811270" target="8811288">
+  <data key="d3">2.7333174784609593</data>
+</edge>
+<edge source="8811288" target="8833001">
+  <data key="d3">3.8701142109451907</data>
+</edge>
+<edge source="8811304" target="8811916">
+  <data key="d3">0.6909058799857726</data>
+</edge>
+<edge source="8811304" target="8811411">
+  <data key="d3">2.1706831982611394</data>
+</edge>
+<edge source="8811304" target="8811403">
+  <data key="d3">1.0620453800744662</data>
+</edge>
+<edge source="8811411" target="8814456">
+  <data key="d3">2.2988396968653446</data>
+</edge>
+<edge source="8811411" target="8811403">
+  <data key="d3">1.1502350881226764</data>
+</edge>
+<edge source="8811411" target="8811429">
+  <data key="d3">1.6210708906844908</data>
+</edge>
+<edge source="8811411" target="8811437">
+  <data key="d3">3.3253401950023402</data>
+</edge>
+<edge source="8811429" target="8811437">
+  <data key="d3">1.7104108255034751</data>
+</edge>
+<edge source="8811437" target="8811445">
+  <data key="d3">4.310995391257428</data>
+</edge>
+<edge source="8811445" target="8811460">
+  <data key="d3">1.4238243965177282</data>
+</edge>
+<edge source="8811460" target="8811510">
+  <data key="d3">3.2329811603366148</data>
+</edge>
+<edge source="8811510" target="8811528">
+  <data key="d3">1.850791227984826</data>
+</edge>
+<edge source="8811528" target="8811536">
+  <data key="d3">2.033533952603721</data>
+</edge>
+<edge source="8811536" target="8811544">
+  <data key="d3">2.274774712329738</data>
+</edge>
+<edge source="8811544" target="8811601">
+  <data key="d3">2.6499080456389112</data>
+</edge>
+<edge source="8811601" target="8811676">
+  <data key="d3">3.2981025766675005</data>
+</edge>
+<edge source="8811601" target="8811635">
+  <data key="d3">2.0969887578133615</data>
+</edge>
+<edge source="8811601" target="8811817">
+  <data key="d3">1.5269011735734492</data>
+</edge>
+<edge source="8811601" target="8861549">
+  <data key="d3">5.093326208649151</data>
+</edge>
+<edge source="8811635" target="8811718">
+  <data key="d3">2.2135301356480923</data>
+</edge>
+<edge source="8811718" target="8811726">
+  <data key="d3">1.1798681839649157</data>
+</edge>
+<edge source="8811726" target="8811734">
+  <data key="d3">1.4947280471103057</data>
+</edge>
+<edge source="8811734" target="8811742">
+  <data key="d3">2.3918187371399786</data>
+</edge>
+<edge source="8811742" target="8811759">
+  <data key="d3">2.1663487066838503</data>
+</edge>
+<edge source="8811759" target="8811767">
+  <data key="d3">0.9988459074700767</data>
+</edge>
+<edge source="8811767" target="8811775">
+  <data key="d3">1.900089717018415</data>
+</edge>
+<edge source="8811775" target="8833159">
+  <data key="d3">2.4597953916896165</data>
+</edge>
+<edge source="8811817" target="8811825">
+  <data key="d3">1.6149327070502575</data>
+</edge>
+<edge source="8811825" target="8872611">
+  <data key="d3">2.887582094528068</data>
+</edge>
+<edge source="8811916" target="8812021">
+  <data key="d3">4.613601671430166</data>
+</edge>
+<edge source="8811916" target="8812005">
+  <data key="d3">2.2957455569239507</data>
+</edge>
+<edge source="8812005" target="8813045">
+  <data key="d3">0.8491278244847149</data>
+</edge>
+<edge source="8812005" target="8813003">
+  <data key="d3">1.5834584984517988</data>
+</edge>
+<edge source="8812005" target="8812021">
+  <data key="d3">2.362979978181219</data>
+</edge>
+<edge source="8812005" target="8814001">
+  <data key="d3">3.16482994342804</data>
+</edge>
+<edge source="8812013" target="8815040">
+  <data key="d3">1.768900603170347</data>
+</edge>
+<edge source="8812013" target="8815016">
+  <data key="d3">1.378670637861389</data>
+</edge>
+<edge source="8812021" target="8812047">
+  <data key="d3">1.5722840958965336</data>
+</edge>
+<edge source="8812047" target="8812062">
+  <data key="d3">3.767879282339023</data>
+</edge>
+<edge source="8812047" target="8812211">
+  <data key="d3">2.708010984143746</data>
+</edge>
+<edge source="8812047" target="8815016">
+  <data key="d3">2.4206605695435894</data>
+</edge>
+<edge source="8812062" target="8812070">
+  <data key="d3">5.015202107113594</data>
+</edge>
+<edge source="8812070" target="8812112">
+  <data key="d3">3.0668741256686944</data>
+</edge>
+<edge source="8812070" target="8812120">
+  <data key="d3">5.4893511760750435</data>
+</edge>
+<edge source="8812112" target="8812120">
+  <data key="d3">2.4235462686706444</data>
+</edge>
+<edge source="8812120" target="8812146">
+  <data key="d3">3.3181227864163745</data>
+</edge>
+<edge source="8812146" target="8812153">
+  <data key="d3">2.733609468450558</data>
+</edge>
+<edge source="8812153" target="8812161">
+  <data key="d3">2.2954175460950412</data>
+</edge>
+<edge source="8812161" target="8893443">
+  <data key="d3">2.1871302109307345</data>
+</edge>
+<edge source="8812211" target="8812229">
+  <data key="d3">1.242969734109575</data>
+</edge>
+<edge source="8812229" target="8812237">
+  <data key="d3">2.1240490853138345</data>
+</edge>
+<edge source="8812237" target="8812245">
+  <data key="d3">2.6899221618023517</data>
+</edge>
+<edge source="8812245" target="8812252">
+  <data key="d3">2.9072812499281286</data>
+</edge>
+<edge source="8812252" target="8812260">
+  <data key="d3">3.6297542330667807</data>
+</edge>
+<edge source="8812260" target="8895836">
+  <data key="d3">1.3954147118004385</data>
+</edge>
+<edge source="8813003" target="8813037">
+  <data key="d3">0.8048722137115065</data>
+</edge>
+<edge source="8813003" target="8813045">
+  <data key="d3">0.8025708772397753</data>
+</edge>
+<edge source="8813003" target="8814001">
+  <data key="d3">1.8033796014826164</data>
+</edge>
+<edge source="8813037" target="8814001">
+  <data key="d3">0.9986907098688014</data>
+</edge>
+<edge source="8814001" target="8814118">
+  <data key="d3">3.0417447498543404</data>
+</edge>
+<edge source="8814001" target="8814373">
+  <data key="d3">3.5185397368048243</data>
+</edge>
+<edge source="8814001" target="8815040">
+  <data key="d3">1.7957869478888742</data>
+</edge>
+<edge source="8814118" target="8814126">
+  <data key="d3">0.8904287038736184</data>
+</edge>
+<edge source="8814126" target="8814134">
+  <data key="d3">1.3219063631171892</data>
+</edge>
+<edge source="8814134" target="8814142">
+  <data key="d3">2.0729723530600386</data>
+</edge>
+<edge source="8814142" target="8814159">
+  <data key="d3">1.2230405993771758</data>
+</edge>
+<edge source="8814142" target="8814449">
+  <data key="d3">2.8297144138139436</data>
+</edge>
+<edge source="8814159" target="8814167">
+  <data key="d3">2.2762004096309396</data>
+</edge>
+<edge source="8814167" target="8814175">
+  <data key="d3">1.1740523259367401</data>
+</edge>
+<edge source="8814175" target="8814266">
+  <data key="d3">2.7525175266290383</data>
+</edge>
+<edge source="8814209" target="8814241">
+  <data key="d3">5.523088376230329</data>
+</edge>
+<edge source="8814209" target="8871332">
+  <data key="d3">7.444657419529374</data>
+</edge>
+<edge source="8814241" target="8814258">
+  <data key="d3">4.435647834800929</data>
+</edge>
+<edge source="8814258" target="8814266">
+  <data key="d3">3.4542935698739856</data>
+</edge>
+<edge source="8814308" target="8814332">
+  <data key="d3">2.486885467267971</data>
+</edge>
+<edge source="8814308" target="8814340">
+  <data key="d3">2.3332577080330763</data>
+</edge>
+<edge source="8814308" target="8883311">
+  <data key="d3">14.209576282192776</data>
+</edge>
+<edge source="8814308" target="8814415">
+  <data key="d3">2.7029723861510475</data>
+</edge>
+<edge source="8814332" target="8883808">
+  <data key="d3">2.8320093756009883</data>
+</edge>
+<edge source="8814340" target="8814357">
+  <data key="d3">1.9595282673188523</data>
+</edge>
+<edge source="8814357" target="8814365">
+  <data key="d3">3.2154773883095897</data>
+</edge>
+<edge source="8814365" target="8814373">
+  <data key="d3">2.1645142305223573</data>
+</edge>
+<edge source="8814415" target="8814423">
+  <data key="d3">3.0228542768128506</data>
+</edge>
+<edge source="8814423" target="8814431">
+  <data key="d3">2.3684470013641588</data>
+</edge>
+<edge source="8814431" target="8814449">
+  <data key="d3">2.876730082531281</data>
+</edge>
+<edge source="8814449" target="8814464">
+  <data key="d3">0.8169638575928363</data>
+</edge>
+<edge source="8814456" target="8814464">
+  <data key="d3">1.4915286132471008</data>
+</edge>
+<edge source="8819406" target="8822004">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8821006" target="8821121">
+  <data key="d3">2.1437492240475904</data>
+</edge>
+<edge source="8821006" target="8821022">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8821022" target="8821063">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8821063" target="8821089">
+  <data key="d3">1.9580164134222058</data>
+</edge>
+<edge source="8821071" target="8821089">
+  <data key="d3">2.264831752096263</data>
+</edge>
+<edge source="8821071" target="8821543">
+  <data key="d3">1.117063824035985</data>
+</edge>
+<edge source="8821121" target="8821147">
+  <data key="d3">2.133754928376566</data>
+</edge>
+<edge source="8821121" target="8821196">
+  <data key="d3">2.9288749050735197</data>
+</edge>
+<edge source="8821121" target="8821154">
+  <data key="d3">2.059730698564825</data>
+</edge>
+<edge source="8821147" target="8821246">
+  <data key="d3">2.103958393017786</data>
+</edge>
+<edge source="8821147" target="8821634">
+  <data key="d3">3.874133647558477</data>
+</edge>
+<edge source="8821154" target="8821238">
+  <data key="d3">1.4583169042127024</data>
+</edge>
+<edge source="8821196" target="8824158">
+  <data key="d3">3.4057236866065406</data>
+</edge>
+<edge source="8821196" target="8894821">
+  <data key="d3">4.587204053878278</data>
+</edge>
+<edge source="8821238" target="8821337">
+  <data key="d3">2.016745628725159</data>
+</edge>
+<edge source="8821246" target="8821337">
+  <data key="d3">1.6785794605119668</data>
+</edge>
+<edge source="8821311" target="8822210">
+  <data key="d3">4.901358083741788</data>
+</edge>
+<edge source="8821311" target="8821337">
+  <data key="d3">2.367467667111107</data>
+</edge>
+<edge source="8821402" target="8821436">
+  <data key="d3">3.9466622524543125</data>
+</edge>
+<edge source="8821436" target="8821444">
+  <data key="d3">4.112545786862376</data>
+</edge>
+<edge source="8821444" target="8821451">
+  <data key="d3">1.3922429970036967</data>
+</edge>
+<edge source="8821451" target="8821519">
+  <data key="d3">1.632237820840757</data>
+</edge>
+<edge source="8821519" target="8821543">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8821600" target="8821634">
+  <data key="d3">5.549305154598513</data>
+</edge>
+<edge source="8821600" target="8821816">
+  <data key="d3">5.9867483445705965</data>
+</edge>
+<edge source="8821600" target="8821659">
+  <data key="d3">4.380610074760868</data>
+</edge>
+<edge source="8821659" target="8821667">
+  <data key="d3">3.4969256601045133</data>
+</edge>
+<edge source="8821667" target="8821725">
+  <data key="d3">5.613698678274007</data>
+</edge>
+<edge source="8821709" target="8821725">
+  <data key="d3">2.779329211661487</data>
+</edge>
+<edge source="8821709" target="8821717">
+  <data key="d3">3.360944074217196</data>
+</edge>
+<edge source="8821717" target="8832458">
+  <data key="d3">1.4537915173596834</data>
+</edge>
+<edge source="8821717" target="8821964">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8821816" target="8821824">
+  <data key="d3">3.0919345307063284</data>
+</edge>
+<edge source="8821824" target="8821832">
+  <data key="d3">3.453285410908523</data>
+</edge>
+<edge source="8821832" target="8821857">
+  <data key="d3">6.128912836557964</data>
+</edge>
+<edge source="8821857" target="8821865">
+  <data key="d3">2.5404830130041605</data>
+</edge>
+<edge source="8821865" target="8833209">
+  <data key="d3">4.495834500391075</data>
+</edge>
+<edge source="8821907" target="8821964">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8822004" target="8822251">
+  <data key="d3">4.547600414585559</data>
+</edge>
+<edge source="8822004" target="8822343">
+  <data key="d3">1.4494174143899488</data>
+</edge>
+<edge source="8822004" target="8822426">
+  <data key="d3">2.4141151260678235</data>
+</edge>
+<edge source="8822004" target="8822053">
+  <data key="d3">8.68676203878319</data>
+</edge>
+<edge source="8822004" target="8822608">
+  <data key="d3">10.38910382464726</data>
+</edge>
+<edge source="8822053" target="8822111">
+  <data key="d3">4.206924909108271</data>
+</edge>
+<edge source="8822111" target="8822137">
+  <data key="d3">4.932719837383256</data>
+</edge>
+<edge source="8822137" target="8822145">
+  <data key="d3">1.9309102458812446</data>
+</edge>
+<edge source="8822145" target="8822160">
+  <data key="d3">3.388957476095617</data>
+</edge>
+<edge source="8822145" target="8893401">
+  <data key="d3">7.050746440178515</data>
+</edge>
+<edge source="8822160" target="8893401">
+  <data key="d3">3.6617898579516748</data>
+</edge>
+<edge source="8822210" target="8822228">
+  <data key="d3">2.3744795329663204</data>
+</edge>
+<edge source="8822228" target="8822343">
+  <data key="d3">4.480463381289671</data>
+</edge>
+<edge source="8822251" target="8822269">
+  <data key="d3">2.3187534741038225</data>
+</edge>
+<edge source="8822269" target="8822277">
+  <data key="d3">4.417181442640756</data>
+</edge>
+<edge source="8822277" target="8822426">
+  <data key="d3">2.4297312708865126</data>
+</edge>
+<edge source="8822426" target="8822475">
+  <data key="d3">5.125019175758426</data>
+</edge>
+<edge source="8822475" target="8822517">
+  <data key="d3">3.2499299725322324</data>
+</edge>
+<edge source="8822517" target="8822525">
+  <data key="d3">1.9400281427358448</data>
+</edge>
+<edge source="8822525" target="8833175">
+  <data key="d3">5.970408018909004</data>
+</edge>
+<edge source="8822608" target="8822715">
+  <data key="d3">5.265007913770814</data>
+</edge>
+<edge source="8822715" target="8822848">
+  <data key="d3">2.985666315023383</data>
+</edge>
+<edge source="8822715" target="8822772">
+  <data key="d3">3.830675802325827</data>
+</edge>
+<edge source="8822772" target="8894672">
+  <data key="d3">3.2739295351180977</data>
+</edge>
+<edge source="8822814" target="8822848">
+  <data key="d3">2.717036319406667</data>
+</edge>
+<edge source="8822814" target="8824240">
+  <data key="d3">2.78903983394723</data>
+</edge>
+<edge source="8824158" target="8824224">
+  <data key="d3">5.209544673209864</data>
+</edge>
+<edge source="8824224" target="8824232">
+  <data key="d3">1.2017071050459518</data>
+</edge>
+<edge source="8824232" target="8824240">
+  <data key="d3">1.5521593935878828</data>
+</edge>
+<edge source="8831005" target="8831088">
+  <data key="d3">10.48725472275039</data>
+</edge>
+<edge source="8831005" target="8832334">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831005" target="8832375">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831005" target="8831112">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831005" target="8831039">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831039" target="8831807">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831088" target="8831401">
+  <data key="d3">10.16768162447568</data>
+</edge>
+<edge source="8831112" target="8831138">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831138" target="8831310">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831310" target="8841731">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831401" target="8833274">
+  <data key="d3">4.631448875472522</data>
+</edge>
+<edge source="8831765" target="8831781">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831781" target="8832375">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8831807" target="8833605">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832003" target="8832045">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832003" target="8832227">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832045" target="8832409">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832227" target="8832235">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832235" target="8832243">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832243" target="8832250">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832250" target="8832334">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832409" target="8832433">
+  <data key="d3">9.23899269114047</data>
+</edge>
+<edge source="8832409" target="8832565">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832433" target="8832458">
+  <data key="d3">10.06039320776691</data>
+</edge>
+<edge source="8832565" target="8832573">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832573" target="8832615">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8832615" target="8832664">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8833001" target="8833050">
+  <data key="d3">9.836523885481194</data>
+</edge>
+<edge source="8833001" target="8833126">
+  <data key="d3">2.632500655027568</data>
+</edge>
+<edge source="8833001" target="8833233">
+  <data key="d3">8.525900223824115</data>
+</edge>
+<edge source="8833001" target="8833175">
+  <data key="d3">4.612186961066889</data>
+</edge>
+<edge source="8833050" target="8833308">
+  <data key="d3">7.080395739273995</data>
+</edge>
+<edge source="8833126" target="8833134">
+  <data key="d3">4.172171144738956</data>
+</edge>
+<edge source="8833134" target="8833159">
+  <data key="d3">3.9279886395697243</data>
+</edge>
+<edge source="8833209" target="8833233">
+  <data key="d3">6.197618258461094</data>
+</edge>
+<edge source="8833209" target="8833258">
+  <data key="d3">3.4178589484350694</data>
+</edge>
+<edge source="8833258" target="8833266">
+  <data key="d3">5.817817020878407</data>
+</edge>
+<edge source="8833266" target="8833274">
+  <data key="d3">2.9279108740655335</data>
+</edge>
+<edge source="8833308" target="8833449">
+  <data key="d3">6.251134426411759</data>
+</edge>
+<edge source="8833449" target="8833670">
+  <data key="d3">3.0981002738549686</data>
+</edge>
+<edge source="8833605" target="8833670">
+  <data key="d3">3.5328845424539557</data>
+</edge>
+<edge source="8833605" target="8841400">
+  <data key="d3">13.350988392104636</data>
+</edge>
+<edge source="8841004" target="8843133">
+  <data key="d3">1.7255312120610424</data>
+</edge>
+<edge source="8841004" target="8841202">
+  <data key="d3">5.725881870820876</data>
+</edge>
+<edge source="8841004" target="8841558">
+  <data key="d3">1.7952036846320545</data>
+</edge>
+<edge source="8841004" target="8842002">
+  <data key="d3">2.651618296895882</data>
+</edge>
+<edge source="8841202" target="8841319">
+  <data key="d3">3.4778563005225482</data>
+</edge>
+<edge source="8841319" target="8841327">
+  <data key="d3">2.214271107739305</data>
+</edge>
+<edge source="8841319" target="8841467">
+  <data key="d3">4.42006103259338</data>
+</edge>
+<edge source="8841327" target="8841467">
+  <data key="d3">2.2070603980476813</data>
+</edge>
+<edge source="8841400" target="8841434">
+  <data key="d3">2.807282131095619</data>
+</edge>
+<edge source="8841400" target="8841442">
+  <data key="d3">5.370170627110779</data>
+</edge>
+<edge source="8841434" target="8841442">
+  <data key="d3">2.569950966792823</data>
+</edge>
+<edge source="8841442" target="8841459">
+  <data key="d3">3.3970436100951886</data>
+</edge>
+<edge source="8841459" target="8841467">
+  <data key="d3">2.2706082755255323</data>
+</edge>
+<edge source="8841525" target="8841608">
+  <data key="d3">4.028729292948432</data>
+</edge>
+<edge source="8841525" target="8841558">
+  <data key="d3">0.9408521399042763</data>
+</edge>
+<edge source="8841525" target="8843901">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8841608" target="8841665">
+  <data key="d3">3.855394645041296</data>
+</edge>
+<edge source="8841665" target="8841673">
+  <data key="d3">2.428436599615079</data>
+</edge>
+<edge source="8841673" target="8841731">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8842002" target="8842036">
+  <data key="d3">1.2893448079052645</data>
+</edge>
+<edge source="8842002" target="8842630">
+  <data key="d3">4.859492431241154</data>
+</edge>
+<edge source="8842036" target="8844271">
+  <data key="d3">6.405823596494882</data>
+</edge>
+<edge source="8842630" target="8842648">
+  <data key="d3">2.5693281773424643</data>
+</edge>
+<edge source="8842648" target="8842655">
+  <data key="d3">1.2915864612726378</data>
+</edge>
+<edge source="8842655" target="8842663">
+  <data key="d3">1.0422786072680486</data>
+</edge>
+<edge source="8842663" target="8842689">
+  <data key="d3">2.4170836956839783</data>
+</edge>
+<edge source="8842689" target="8842705">
+  <data key="d3">2.9495807733008093</data>
+</edge>
+<edge source="8842705" target="8842838">
+  <data key="d3">3.2830370067482932</data>
+</edge>
+<edge source="8842705" target="8842754">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8842754" target="8845229">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8842838" target="8842846">
+  <data key="d3">3.9718328553465616</data>
+</edge>
+<edge source="8842846" target="8842853">
+  <data key="d3">2.861714349131538</data>
+</edge>
+<edge source="8842853" target="8864469">
+  <data key="d3">2.9581699965129373</data>
+</edge>
+<edge source="8843133" target="8843141">
+  <data key="d3">3.60942801943661</data>
+</edge>
+<edge source="8843141" target="8843158">
+  <data key="d3">0.8774902721590281</data>
+</edge>
+<edge source="8843158" target="8843166">
+  <data key="d3">1.882441721762192</data>
+</edge>
+<edge source="8843166" target="8843224">
+  <data key="d3">1.0507510231288626</data>
+</edge>
+<edge source="8843208" target="8843240">
+  <data key="d3">4.16439152671308</data>
+</edge>
+<edge source="8843208" target="8843224">
+  <data key="d3">0.9412807291569918</data>
+</edge>
+<edge source="8843240" target="8843349">
+  <data key="d3">6.030625740949143</data>
+</edge>
+<edge source="8843307" target="8843323">
+  <data key="d3">4.144952469870631</data>
+</edge>
+<edge source="8843307" target="8843406">
+  <data key="d3">1.0341746181801237</data>
+</edge>
+<edge source="8843323" target="8843331">
+  <data key="d3">2.302051758092796</data>
+</edge>
+<edge source="8843331" target="8843349">
+  <data key="d3">1.0844307943345883</data>
+</edge>
+<edge source="8843406" target="8843430">
+  <data key="d3">2.127035466631577</data>
+</edge>
+<edge source="8843430" target="8863404">
+  <data key="d3">7.390745746762688</data>
+</edge>
+<edge source="8843901" target="8846201">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8844008" target="8844206">
+  <data key="d3">4.097842634230408</data>
+</edge>
+<edge source="8844008" target="8844057">
+  <data key="d3">0.7982864619608147</data>
+</edge>
+<edge source="8844057" target="8844545">
+  <data key="d3">5.759280779051061</data>
+</edge>
+<edge source="8844206" target="8844313">
+  <data key="d3">0.545263782971823</data>
+</edge>
+<edge source="8844206" target="8844230">
+  <data key="d3">4.582211881393431</data>
+</edge>
+<edge source="8844230" target="8844255">
+  <data key="d3">1.4877886431999692</data>
+</edge>
+<edge source="8844255" target="8844271">
+  <data key="d3">2.654913688692946</data>
+</edge>
+<edge source="8844313" target="8844321">
+  <data key="d3">2.1151857144906403</data>
+</edge>
+<edge source="8844321" target="8844339">
+  <data key="d3">1.0177888504853083</data>
+</edge>
+<edge source="8844339" target="8844347">
+  <data key="d3">1.2672897060964712</data>
+</edge>
+<edge source="8844347" target="8844404">
+  <data key="d3">4.574651923657659</data>
+</edge>
+<edge source="8844404" target="8844420">
+  <data key="d3">0.7940799687476936</data>
+</edge>
+<edge source="8844503" target="8844644">
+  <data key="d3">7.996467443748407</data>
+</edge>
+<edge source="8844503" target="8844545">
+  <data key="d3">5.558474337687457</data>
+</edge>
+<edge source="8844503" target="8844628">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8845005" target="8845146">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8845146" target="8845203">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8845203" target="8845229">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8861119" target="8861127">
+  <data key="d3">1.575447235682323</data>
+</edge>
+<edge source="8861119" target="8863008">
+  <data key="d3">2.690756140428464</data>
+</edge>
+<edge source="8861127" target="8861135">
+  <data key="d3">3.426679851155222</data>
+</edge>
+<edge source="8861135" target="8861143">
+  <data key="d3">2.084524591907604</data>
+</edge>
+<edge source="8861143" target="8861150">
+  <data key="d3">3.1750734653880857</data>
+</edge>
+<edge source="8861150" target="8861168">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8861168" target="8874724">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8861200" target="8861515">
+  <data key="d3">2.782996171600973</data>
+</edge>
+<edge source="8861200" target="8861416">
+  <data key="d3">2.8885628547446003</data>
+</edge>
+<edge source="8861200" target="8861317">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8861317" target="8861333">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8861333" target="8874724">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8861416" target="8861424">
+  <data key="d3">2.8155419282342447</data>
+</edge>
+<edge source="8861424" target="8861432">
+  <data key="d3">1.9786596164642036</data>
+</edge>
+<edge source="8861432" target="8861440">
+  <data key="d3">3.431121612386568</data>
+</edge>
+<edge source="8861440" target="8863008">
+  <data key="d3">5.458566542577268</data>
+</edge>
+<edge source="8861515" target="8861523">
+  <data key="d3">2.435449055714104</data>
+</edge>
+<edge source="8861523" target="8861531">
+  <data key="d3">1.4753968105845952</data>
+</edge>
+<edge source="8861531" target="8861549">
+  <data key="d3">2.569356445091507</data>
+</edge>
+<edge source="8862018" target="8866142">
+  <data key="d3">10.273523873052836</data>
+</edge>
+<edge source="8862018" target="8866118">
+  <data key="d3">1.288314374045117</data>
+</edge>
+<edge source="8863008" target="8863115">
+  <data key="d3">1.8384892301338516</data>
+</edge>
+<edge source="8863008" target="8863461">
+  <data key="d3">7.366772444457828</data>
+</edge>
+<edge source="8863008" target="8863354">
+  <data key="d3">2.01380647495253</data>
+</edge>
+<edge source="8863115" target="8863156">
+  <data key="d3">7.039498034204558</data>
+</edge>
+<edge source="8863156" target="8863560">
+  <data key="d3">4.7714392835742805</data>
+</edge>
+<edge source="8863354" target="8863362">
+  <data key="d3">2.873704878224908</data>
+</edge>
+<edge source="8863362" target="8864964">
+  <data key="d3">3.379056691783111</data>
+</edge>
+<edge source="8863404" target="8863438">
+  <data key="d3">0.9179310344771695</data>
+</edge>
+<edge source="8863438" target="8863446">
+  <data key="d3">3.9574379833697892</data>
+</edge>
+<edge source="8863446" target="8863453">
+  <data key="d3">3.152187762943401</data>
+</edge>
+<edge source="8863453" target="8863461">
+  <data key="d3">2.6251780716327593</data>
+</edge>
+<edge source="8863503" target="8863545">
+  <data key="d3">7.008763502944859</data>
+</edge>
+<edge source="8863503" target="8863818">
+  <data key="d3">2.531731237232201</data>
+</edge>
+<edge source="8863545" target="8863560">
+  <data key="d3">3.182936769740834</data>
+</edge>
+<edge source="8863818" target="8863834">
+  <data key="d3">5.152898964437803</data>
+</edge>
+<edge source="8863834" target="8863842">
+  <data key="d3">3.790124481735448</data>
+</edge>
+<edge source="8863842" target="8863867">
+  <data key="d3">9.095096808149409</data>
+</edge>
+<edge source="8863867" target="8865649">
+  <data key="d3">14.573149366887069</data>
+</edge>
+<edge source="8864006" target="8864345">
+  <data key="d3">5.793316289998533</data>
+</edge>
+<edge source="8864006" target="8864311">
+  <data key="d3">3.1575469487158987</data>
+</edge>
+<edge source="8864311" target="8864337">
+  <data key="d3">4.696920934633772</data>
+</edge>
+<edge source="8864337" target="8865227">
+  <data key="d3">7.955200483885286</data>
+</edge>
+<edge source="8864345" target="8864410">
+  <data key="d3">3.1773272239789874</data>
+</edge>
+<edge source="8864345" target="8864352">
+  <data key="d3">2.53982075763351</data>
+</edge>
+<edge source="8864352" target="8864832">
+  <data key="d3">8.0822867010333</data>
+</edge>
+<edge source="8864410" target="8864436">
+  <data key="d3">9.533286167819567</data>
+</edge>
+<edge source="8864436" target="8864451">
+  <data key="d3">8.51481115044542</data>
+</edge>
+<edge source="8864451" target="8864469">
+  <data key="d3">3.2960548986141958</data>
+</edge>
+<edge source="8864501" target="8864816">
+  <data key="d3">2.839028807753156</data>
+</edge>
+<edge source="8864501" target="8864915">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8864816" target="8864824">
+  <data key="d3">1.3166505720295898</data>
+</edge>
+<edge source="8864824" target="8864832">
+  <data key="d3">5.2018982158528955</data>
+</edge>
+<edge source="8864915" target="8864923">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8864923" target="8864931">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8864931" target="8864949">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8864949" target="8864956">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8864956" target="8864964">
+  <data key="d3">2.04987262866763</data>
+</edge>
+<edge source="8865003" target="8866258">
+  <data key="d3">9.03704421892271</data>
+</edge>
+<edge source="8865003" target="8865300">
+  <data key="d3">11.002262735773257</data>
+</edge>
+<edge source="8865003" target="8865227">
+  <data key="d3">12.642799790990821</data>
+</edge>
+<edge source="8865003" target="8865110">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8865110" target="8865128">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8865300" target="8866845">
+  <data key="d3">16.861937389667265</data>
+</edge>
+<edge source="8865300" target="8865540">
+  <data key="d3">11.673372634475855</data>
+</edge>
+<edge source="8865540" target="8865565">
+  <data key="d3">2.145785777503713</data>
+</edge>
+<edge source="8865565" target="8865615">
+  <data key="d3">4.781363817617536</data>
+</edge>
+<edge source="8865615" target="8865649">
+  <data key="d3">7.248002122451568</data>
+</edge>
+<edge source="8866001" target="8866118">
+  <data key="d3">1.8927546534997919</data>
+</edge>
+<edge source="8866001" target="8866662">
+  <data key="d3">9.78199268273111</data>
+</edge>
+<edge source="8866142" target="8866175">
+  <data key="d3">6.758486376031365</data>
+</edge>
+<edge source="8866175" target="8866258">
+  <data key="d3">15.449721886932691</data>
+</edge>
+<edge source="8866407" target="8866530">
+  <data key="d3">16.04190067778266</data>
+</edge>
+<edge source="8866407" target="8866845">
+  <data key="d3">21.15886262227301</data>
+</edge>
+<edge source="8866530" target="8866654">
+  <data key="d3">4.184921290921407</data>
+</edge>
+<edge source="8866605" target="8866654">
+  <data key="d3">2.2298569026157034</data>
+</edge>
+<edge source="8866605" target="8866662">
+  <data key="d3">3.352610003287686</data>
+</edge>
+<edge source="8871100" target="8872009">
+  <data key="d3">3.251156348487209</data>
+</edge>
+<edge source="8871100" target="8871217">
+  <data key="d3">3.442327088795821</data>
+</edge>
+<edge source="8871100" target="8871514">
+  <data key="d3">5.415648652272868</data>
+</edge>
+<edge source="8871100" target="8871175">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8871175" target="8871183">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8871183" target="8873387">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8871217" target="8871225">
+  <data key="d3">2.164936335507496</data>
+</edge>
+<edge source="8871225" target="8871308">
+  <data key="d3">5.013757770905175</data>
+</edge>
+<edge source="8871308" target="8871332">
+  <data key="d3">3.5734661503945193</data>
+</edge>
+<edge source="8871308" target="8871365">
+  <data key="d3">2.222988189296013</data>
+</edge>
+<edge source="8871365" target="8871373">
+  <data key="d3">2.8327661501106665</data>
+</edge>
+<edge source="8871373" target="8871381">
+  <data key="d3">2.5088233520441623</data>
+</edge>
+<edge source="8871381" target="8882701">
+  <data key="d3">4.204929556628146</data>
+</edge>
+<edge source="8871415" target="8871514">
+  <data key="d3">2.623992414447982</data>
+</edge>
+<edge source="8871415" target="8882248">
+  <data key="d3">2.264939903300542</data>
+</edge>
+<edge source="8871605" target="8871647">
+  <data key="d3">1.489306730066795</data>
+</edge>
+<edge source="8871647" target="8871662">
+  <data key="d3">1.8750067261322074</data>
+</edge>
+<edge source="8871662" target="8871670">
+  <data key="d3">2.0588676903300738</data>
+</edge>
+<edge source="8871670" target="8871688">
+  <data key="d3">1.9200513768282361</data>
+</edge>
+<edge source="8871688" target="8871712">
+  <data key="d3">4.429508671144417</data>
+</edge>
+<edge source="8871712" target="8871811">
+  <data key="d3">2.0267857090281045</data>
+</edge>
+<edge source="8871811" target="8871829">
+  <data key="d3">2.722651255897604</data>
+</edge>
+<edge source="8871829" target="8871837">
+  <data key="d3">3.35782181742601</data>
+</edge>
+<edge source="8871837" target="8871852">
+  <data key="d3">3.494045995803763</data>
+</edge>
+<edge source="8871852" target="8872009">
+  <data key="d3">3.621564053018097</data>
+</edge>
+<edge source="8871852" target="8872066">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8872009" target="8872066">
+  <data key="d3">0.7069933425816202</data>
+</edge>
+<edge source="8872009" target="8874054">
+  <data key="d3">2.5072841958941363</data>
+</edge>
+<edge source="8872066" target="8872306">
+  <data key="d3">3.031930917429452</data>
+</edge>
+<edge source="8872306" target="8872413">
+  <data key="d3">7.938564083423209</data>
+</edge>
+<edge source="8872413" target="8872520">
+  <data key="d3">3.6737388571426672</data>
+</edge>
+<edge source="8872520" target="8872553">
+  <data key="d3">5.243427196047913</data>
+</edge>
+<edge source="8872553" target="8872579">
+  <data key="d3">2.6120176001599766</data>
+</edge>
+<edge source="8872579" target="8872587">
+  <data key="d3">3.608870670238763</data>
+</edge>
+<edge source="8872587" target="8872611">
+  <data key="d3">1.463289802670334</data>
+</edge>
+<edge source="8873007" target="8873312">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8873007" target="8873239">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8873122" target="8873239">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8873122" target="8875002">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8873312" target="8873320">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8873320" target="8873379">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8873379" target="8873387">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8874005" target="8874054">
+  <data key="d3">4.248134322763813</data>
+</edge>
+<edge source="8874005" target="8874559">
+  <data key="d3">3.0215485477404798</data>
+</edge>
+<edge source="8874559" target="8874567">
+  <data key="d3">1.078207539115127</data>
+</edge>
+<edge source="8874567" target="8874583">
+  <data key="d3">1.579990629009387</data>
+</edge>
+<edge source="8874583" target="8874609">
+  <data key="d3">1.7458473628739586</data>
+</edge>
+<edge source="8874609" target="8874716">
+  <data key="d3">2.434043867002067</data>
+</edge>
+<edge source="8874716" target="8874724">
+  <data key="d3">2.2818490198012205</data>
+</edge>
+<edge source="8875002" target="8875127">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8881000" target="8881570">
+  <data key="d3">5.907912586657495</data>
+</edge>
+<edge source="8881000" target="8881315">
+  <data key="d3">2.1990143421638755</data>
+</edge>
+<edge source="8881000" target="8884566">
+  <data key="d3">4.036106279995211</data>
+</edge>
+<edge source="8881000" target="8881125">
+  <data key="d3">4.527614919954832</data>
+</edge>
+<edge source="8881125" target="8881158">
+  <data key="d3">2.5389913483356996</data>
+</edge>
+<edge source="8881158" target="8881166">
+  <data key="d3">3.0650524931979324</data>
+</edge>
+<edge source="8881166" target="8881174">
+  <data key="d3">3.6989234674236426</data>
+</edge>
+<edge source="8881166" target="8881190">
+  <data key="d3">3.2516906880807985</data>
+</edge>
+<edge source="8881174" target="8883121">
+  <data key="d3">3.5194628179306418</data>
+</edge>
+<edge source="8881190" target="8886074">
+  <data key="d3">3.6509097175138634</data>
+</edge>
+<edge source="8881315" target="8881406">
+  <data key="d3">3.6664418334750426</data>
+</edge>
+<edge source="8881406" target="8881430">
+  <data key="d3">3.695612299119242</data>
+</edge>
+<edge source="8881430" target="8881455">
+  <data key="d3">2.731518317614527</data>
+</edge>
+<edge source="8881455" target="8881463">
+  <data key="d3">2.0441215605044767</data>
+</edge>
+<edge source="8881463" target="8882206">
+  <data key="d3">4.6703202222997975</data>
+</edge>
+<edge source="8881505" target="8881562">
+  <data key="d3">5.4644023239470805</data>
+</edge>
+<edge source="8881562" target="8881570">
+  <data key="d3">1.7380171750137317</data>
+</edge>
+<edge source="8882107" target="8882206">
+  <data key="d3">1.6524951948058149</data>
+</edge>
+<edge source="8882107" target="8882701">
+  <data key="d3">4.971320313110576</data>
+</edge>
+<edge source="8882206" target="8882230">
+  <data key="d3">4.0931716532228055</data>
+</edge>
+<edge source="8882206" target="8882339">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8882230" target="8882248">
+  <data key="d3">1.6143443795049937</data>
+</edge>
+<edge source="8882339" target="8882362">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8882701" target="8883238">
+  <data key="d3">2.200495139900882</data>
+</edge>
+<edge source="8883006" target="8883022">
+  <data key="d3">5.776837807884948</data>
+</edge>
+<edge source="8883006" target="8883113">
+  <data key="d3">6.120124283011148</data>
+</edge>
+<edge source="8883006" target="8883212">
+  <data key="d3">4.933817100393698</data>
+</edge>
+<edge source="8883022" target="8883808">
+  <data key="d3">4.992085960516869</data>
+</edge>
+<edge source="8883113" target="8883121">
+  <data key="d3">5.163061150864287</data>
+</edge>
+<edge source="8883212" target="8883220">
+  <data key="d3">2.311744789614444</data>
+</edge>
+<edge source="8883220" target="8883238">
+  <data key="d3">3.852266778306128</data>
+</edge>
+<edge source="8883311" target="8895646">
+  <data key="d3">3.7380861929969167</data>
+</edge>
+<edge source="8883311" target="8883436">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8883436" target="8886009">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8884004" target="8884541">
+  <data key="d3">2.6847381980000735</data>
+</edge>
+<edge source="8884004" target="8884319">
+  <data key="d3">1.7960792178557796</data>
+</edge>
+<edge source="8884004" target="8884632">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8884319" target="8884327">
+  <data key="d3">2.329043256474451</data>
+</edge>
+<edge source="8884327" target="8884350">
+  <data key="d3">1.6561602919772584</data>
+</edge>
+<edge source="8884335" target="8884350">
+  <data key="d3">4.408245056002139</data>
+</edge>
+<edge source="8884541" target="8884566">
+  <data key="d3">2.0796290154058195</data>
+</edge>
+<edge source="8884632" target="8884640">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8884640" target="8884715">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8884715" target="8884855">
+  <data key="d3">5.281588945049818</data>
+</edge>
+<edge source="8884855" target="8884889">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8884889" target="8885530">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8885001" target="8885522">
+  <data key="d3">6.177223845207909</data>
+</edge>
+<edge source="8885001" target="8885068">
+  <data key="d3">3.507452090450748</data>
+</edge>
+<edge source="8885001" target="8886348">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8885068" target="8885753">
+  <data key="d3">12.091875345782803</data>
+</edge>
+<edge source="8885522" target="8885530">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8885704" target="8885753">
+  <data key="d3">3.2578675770199332</data>
+</edge>
+<edge source="8885704" target="8896008">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8886009" target="8886587">
+  <data key="d3">3.9829045010091018</data>
+</edge>
+<edge source="8886009" target="8886041">
+  <data key="d3">2.126078780165115</data>
+</edge>
+<edge source="8886009" target="8886348">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8886041" target="8886058">
+  <data key="d3">2.86432151629483</data>
+</edge>
+<edge source="8886058" target="8886066">
+  <data key="d3">1.4692060904648596</data>
+</edge>
+<edge source="8886066" target="8886074">
+  <data key="d3">1.7778590460868384</data>
+</edge>
+<edge source="8886504" target="8886546">
+  <data key="d3">2.461779221215577</data>
+</edge>
+<edge source="8886504" target="8886553">
+  <data key="d3">0.999781692089582</data>
+</edge>
+<edge source="8886546" target="8895505">
+  <data key="d3">4.589137816199908</data>
+</edge>
+<edge source="8886553" target="8886561">
+  <data key="d3">2.0115413014318806</data>
+</edge>
+<edge source="8886561" target="8886587">
+  <data key="d3">3.5153210610621217</data>
+</edge>
+<edge source="8891009" target="8891116">
+  <data key="d3">5.5737172295261805</data>
+</edge>
+<edge source="8891009" target="8891033">
+  <data key="d3">3.0618182272620276</data>
+</edge>
+<edge source="8891009" target="8891264">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891009" target="8891702">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891033" target="8891629">
+  <data key="d3">7.9800948473171776</data>
+</edge>
+<edge source="8891033" target="8891405">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891116" target="8891124">
+  <data key="d3">5.8290214725932605</data>
+</edge>
+<edge source="8891124" target="8891132">
+  <data key="d3">4.571243813996909</data>
+</edge>
+<edge source="8891132" target="8891140">
+  <data key="d3">4.596398284470975</data>
+</edge>
+<edge source="8891140" target="8891157">
+  <data key="d3">2.9148463928154604</data>
+</edge>
+<edge source="8891157" target="8891165">
+  <data key="d3">3.614619531822711</data>
+</edge>
+<edge source="8891165" target="8892056">
+  <data key="d3">3.007778948556425</data>
+</edge>
+<edge source="8891173" target="8891611">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891264" target="8891314">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891314" target="8892205">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891553" target="8891629">
+  <data key="d3">3.5228410328739157</data>
+</edge>
+<edge source="8891611" target="8891629">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891629" target="8891645">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891645" target="8891652">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8891652" target="8891660">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892007" target="8893013">
+  <data key="d3">4.556175220526562</data>
+</edge>
+<edge source="8892007" target="8892031">
+  <data key="d3">4.0815144449696925</data>
+</edge>
+<edge source="8892007" target="8892080">
+  <data key="d3">6.033886176065508</data>
+</edge>
+<edge source="8892007" target="8893179">
+  <data key="d3">3.207316038291254</data>
+</edge>
+<edge source="8892031" target="8892056">
+  <data key="d3">5.795599662550131</data>
+</edge>
+<edge source="8892080" target="8892650">
+  <data key="d3">4.336287528373073</data>
+</edge>
+<edge source="8892080" target="8892106">
+  <data key="d3">8.389314834897958</data>
+</edge>
+<edge source="8892106" target="8896149">
+  <data key="d3">12.221998720056703</data>
+</edge>
+<edge source="8892106" target="8892288">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892205" target="8892403">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892205" target="8896800">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892205" target="8892254">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892254" target="8892288">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892304" target="8892320">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892304" target="8892452">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892320" target="8892338">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892403" target="8892452">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8892601" target="8892692">
+  <data key="d3">7.387900786005464</data>
+</edge>
+<edge source="8892601" target="8892908">
+  <data key="d3">11.970411033719326</data>
+</edge>
+<edge source="8892601" target="8892627">
+  <data key="d3">2.793437484818308</data>
+</edge>
+<edge source="8892601" target="8892734">
+  <data key="d3">7.858226962633115</data>
+</edge>
+<edge source="8892627" target="8892635">
+  <data key="d3">4.472251754330911</data>
+</edge>
+<edge source="8892635" target="8892643">
+  <data key="d3">2.4906786413895436</data>
+</edge>
+<edge source="8892643" target="8892650">
+  <data key="d3">3.5207303597950412</data>
+</edge>
+<edge source="8892692" target="8895232">
+  <data key="d3">2.4503327169928864</data>
+</edge>
+<edge source="8892734" target="8896230">
+  <data key="d3">7.308177567882478</data>
+</edge>
+<edge source="8893013" target="8893039">
+  <data key="d3">2.5645314414038864</data>
+</edge>
+<edge source="8893013" target="8893179">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8893039" target="8893567">
+  <data key="d3">2.5865580855681776</data>
+</edge>
+<edge source="8893039" target="8893047">
+  <data key="d3">2.5350809263439005</data>
+</edge>
+<edge source="8893047" target="8893054">
+  <data key="d3">1.3025135983363738</data>
+</edge>
+<edge source="8893054" target="8893062">
+  <data key="d3">2.014572990621327</data>
+</edge>
+<edge source="8893062" target="8893070">
+  <data key="d3">1.8460706240273381</data>
+</edge>
+<edge source="8893070" target="8895257">
+  <data key="d3">2.1626750421404215</data>
+</edge>
+<edge source="8893120" target="8893179">
+  <data key="d3">2.25698918480688</data>
+</edge>
+<edge source="8893120" target="8893211">
+  <data key="d3">3.8632608836521403</data>
+</edge>
+<edge source="8893179" target="8894151">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8893211" target="8893252">
+  <data key="d3">2.4700618333113575</data>
+</edge>
+<edge source="8893252" target="8893260">
+  <data key="d3">3.1723908959938094</data>
+</edge>
+<edge source="8893260" target="8893815">
+  <data key="d3">4.791367704724283</data>
+</edge>
+<edge source="8893401" target="8893443">
+  <data key="d3">1.1541486531512712</data>
+</edge>
+<edge source="8893401" target="8893518">
+  <data key="d3">2.718746864539138</data>
+</edge>
+<edge source="8893401" target="8894235">
+  <data key="d3">6.984962945037459</data>
+</edge>
+<edge source="8893518" target="8893526">
+  <data key="d3">3.9700120367329514</data>
+</edge>
+<edge source="8893526" target="8893534">
+  <data key="d3">2.935705431303899</data>
+</edge>
+<edge source="8893534" target="8893542">
+  <data key="d3">3.349920251357268</data>
+</edge>
+<edge source="8893542" target="8893559">
+  <data key="d3">2.7694707451505987</data>
+</edge>
+<edge source="8893542" target="8893583">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8893559" target="8893567">
+  <data key="d3">3.8210614159439085</data>
+</edge>
+<edge source="8893583" target="8895067">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8893708" target="8893815">
+  <data key="d3">4.116925131297539</data>
+</edge>
+<edge source="8894151" target="8894201">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8894201" target="8894425">
+  <data key="d3">6.894748358010097</data>
+</edge>
+<edge source="8894201" target="8894235">
+  <data key="d3">5.415603704608316</data>
+</edge>
+<edge source="8894425" target="8894433">
+  <data key="d3">1.6116029335180557</data>
+</edge>
+<edge source="8894433" target="8894508">
+  <data key="d3">4.4233242193196</data>
+</edge>
+<edge source="8894508" target="8894714">
+  <data key="d3">3.382192555377137</data>
+</edge>
+<edge source="8894508" target="8894672">
+  <data key="d3">7.4431137261991545</data>
+</edge>
+<edge source="8894714" target="8894748">
+  <data key="d3">5.719727910600308</data>
+</edge>
+<edge source="8894748" target="8894755">
+  <data key="d3">1.9168480636038987</data>
+</edge>
+<edge source="8894755" target="8894821">
+  <data key="d3">3.020878243078416</data>
+</edge>
+<edge source="8895000" target="8895091">
+  <data key="d3">2.8072154291043</data>
+</edge>
+<edge source="8895000" target="8895125">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8895000" target="8895067">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8895091" target="8895802">
+  <data key="d3">3.2878426653063424</data>
+</edge>
+<edge source="8895125" target="8895489">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8895208" target="8895232">
+  <data key="d3">5.744277093461686</data>
+</edge>
+<edge source="8895208" target="8895422">
+  <data key="d3">3.9020335524236094</data>
+</edge>
+<edge source="8895208" target="8895240">
+  <data key="d3">3.544533855230162</data>
+</edge>
+<edge source="8895208" target="8895570">
+  <data key="d3">5.941916491563736</data>
+</edge>
+<edge source="8895240" target="8895257">
+  <data key="d3">2.3538836601611783</data>
+</edge>
+<edge source="8895422" target="8895430">
+  <data key="d3">1.7525506169701</data>
+</edge>
+<edge source="8895430" target="8895448">
+  <data key="d3">1.2278756683210423</data>
+</edge>
+<edge source="8895448" target="8895455">
+  <data key="d3">1.9098155115861792</data>
+</edge>
+<edge source="8895455" target="8895877">
+  <data key="d3">4.586526654940332</data>
+</edge>
+<edge source="8895455" target="8895463">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8895463" target="8895471">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8895471" target="8895489">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8895505" target="8895612">
+  <data key="d3">3.8168465866068755</data>
+</edge>
+<edge source="8895505" target="8895711">
+  <data key="d3">3.523999780896804</data>
+</edge>
+<edge source="8895505" target="8895570">
+  <data key="d3">5.959630022333285</data>
+</edge>
+<edge source="8895612" target="8895620">
+  <data key="d3">3.5216710059992873</data>
+</edge>
+<edge source="8895620" target="8895638">
+  <data key="d3">2.1240572250397767</data>
+</edge>
+<edge source="8895638" target="8895646">
+  <data key="d3">2.018103943079771</data>
+</edge>
+<edge source="8895711" target="8895729">
+  <data key="d3">1.6282103361538556</data>
+</edge>
+<edge source="8895729" target="8895737">
+  <data key="d3">2.600605274268378</data>
+</edge>
+<edge source="8895737" target="8895745">
+  <data key="d3">1.2202896931820242</data>
+</edge>
+<edge source="8895745" target="8895752">
+  <data key="d3">1.946840018672468</data>
+</edge>
+<edge source="8895752" target="8895760">
+  <data key="d3">2.8557563524542386</data>
+</edge>
+<edge source="8895760" target="8895778">
+  <data key="d3">2.8432484718121973</data>
+</edge>
+<edge source="8895778" target="8895844">
+  <data key="d3">2.3463055510425948</data>
+</edge>
+<edge source="8895802" target="8895851">
+  <data key="d3">1.951383789484708</data>
+</edge>
+<edge source="8895802" target="8895836">
+  <data key="d3">1.9499070943819938</data>
+</edge>
+<edge source="8895802" target="8895844">
+  <data key="d3">1.6890768271181913</data>
+</edge>
+<edge source="8895851" target="8895869">
+  <data key="d3">1.9115742627689214</data>
+</edge>
+<edge source="8895869" target="8895877">
+  <data key="d3">2.5980255745547765</data>
+</edge>
+<edge source="8896008" target="8896230">
+  <data key="d3">8.986130547362587</data>
+</edge>
+<edge source="8896008" target="8896115">
+  <data key="d3">4.922534700611298</data>
+</edge>
+<edge source="8896008" target="8896388">
+  <data key="d3">2.8385855620818132</data>
+</edge>
+<edge source="8896008" target="8896925">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8896115" target="8896149">
+  <data key="d3">8.8215035281617</data>
+</edge>
+<edge source="8896305" target="8896370">
+  <data key="d3">5.080981035513203</data>
+</edge>
+<edge source="8896305" target="8896396">
+  <data key="d3">5.090361081028808</data>
+</edge>
+<edge source="8896370" target="8896388">
+  <data key="d3">3.2727297494024135</data>
+</edge>
+<edge source="8896396" target="8896412">
+  <data key="d3">3.5270484343274093</data>
+</edge>
+<edge source="8896412" target="8896503">
+  <data key="d3">12.023843341159738</data>
+</edge>
+<edge source="8896503" target="8896735">
+  <data key="d3">9.880038717134504</data>
+</edge>
+<edge source="8896800" target="8896909">
+  <data key="d3">0.0</data>
+</edge>
+<edge source="8896909" target="8896925">
+  <data key="d3">0.0</data>
+</edge>
+</graph></graphml>
