@@ -88,6 +88,8 @@ Students will then spend the last part of the course working on a research proje
   * Presentations on network science https://github.com/Liyubov/talks-from-conferences/tree/master/teaching_networks 
   * Programming Python and collective intelligence https://resources.oreilly.com/examples/9780596529321/ 
   * Firsts in network science from Petter Holme https://petterhol.me/2019/04/15/firsts-in-network-science/
+  * Analysis of city data https://www.data.gov/
+
 
 * Papers about network science:
 https://drive.google.com/drive/u/1/folders/1RXXtMR1DMaWSm22lyqxwSDx_H07kRElt
@@ -135,6 +137,13 @@ Barthelemy (2011) https://journals.openedition.org/nda/2374
 Collaborations with other existing projects
 * Functional networks building and analysis, e.g.  pyunicorn
 * Comparison of networks, e.g. project https://github.com/netsiphd/netrd
+
+# Criteria for projects 
+
+1. loading or collecting your own network data 
+2. analyzing data from your network and answering your research projects
+3. documenting your project (in README files of the project)
+
 
 # How To Use Github 
 https://guides.github.com/activities/hello-world/ 
