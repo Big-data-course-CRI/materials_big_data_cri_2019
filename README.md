@@ -89,6 +89,7 @@ Students will then spend the last part of the course working on a research proje
   * Programming Python and collective intelligence https://resources.oreilly.com/examples/9780596529321/ 
   * Firsts in network science from Petter Holme https://petterhol.me/2019/04/15/firsts-in-network-science/
   * Analysis of city data https://www.data.gov/
+  * Data for science slides and folders from B.Gonsales https://github.com/Dataforscience/networks
 
 
 * Papers about network science:
