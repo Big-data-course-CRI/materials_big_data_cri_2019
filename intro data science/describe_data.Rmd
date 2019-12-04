@@ -494,3 +494,30 @@ plot(as.numeric(tb), s_diseases[inds_match], log='xy', pch=19,
 cor.test(as.numeric(tb), s_diseases[inds_match], method='s')
 ```
 
+
+# Other centralities
+
+Let us try eigenvector centrality. This tests that nodes are connected to other important nodes. It is similar to the PageRank metric that has been used to rank the importance of google pages.
+
+```{r}
+eig_genes <- eigen_centrality(Gproj$proj1)$vector
+eig_diseases <- eigen_centrality(Gproj$proj2)$vector
+```
+
+
+```{r, warning=FALSE}
+plot(as.numeric(tb), eig_genes[inds_match], log='xy', pch=19)
+```
+
+This is this time much less associated. What about correlation?
+
+```{r}
+cor.test(as.numeric(tb), eig_genes[inds_match])
+```
+
+It is this time very low! This shows that this type of global centrality (i.e not local like degree, but taking into account the whole structure of the network) is more informative than just basic statistics from the data frame.
+
+```{r}
+head(sort(eig_genes, decreasing = TRUE), 30)
+```
+
