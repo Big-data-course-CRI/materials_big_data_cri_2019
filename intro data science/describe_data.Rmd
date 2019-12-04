@@ -30,7 +30,7 @@ Here we study the dataset **"Curated gene-disease associations"**. The file cont
 * NofSnps		-> Total number of SNPs associated to the Gene-Disease association
 * source		-> Original source reporting the Gene-Disease association
 
-# Loading data
+# Loading data 
 
 We first read the gzipped file.
 ```{r}
@@ -67,10 +67,10 @@ From these, we can compute things like:
 
 ## Growth process
 
-First it is alwasy good to get an idea of **distributions**. A distribution corresponds to a count of the number (or probability, if normalised) of elements per bin.
+First it is always good to get an idea of **distributions**. A distribution corresponds to a count of the number (or probability, if normalised) of elements per bin.
 
 ```{r}
-hist(df$YearInitial, col='gray', xlab='Initial year', breaks = 20)
+hist(df$YearInitial, col='gray', xlab='Initial year', breaks = 100)
 ```
 
 
@@ -191,7 +191,7 @@ Now we wonder what are the trends for survival? Did it change in time? Are the f
 ```{r, fig.height=3}
 # this creates a list of survivals for each Year Initial
 sp <- split(survival, df$YearInitial)
-boxplot(sp, xlab='Year Initial', ylab='Survival')
+boxplot(sp, xlab='Year Initial', ylab='Survival',col='gray')
 ```
 
 
@@ -506,7 +506,8 @@ eig_diseases <- eigen_centrality(Gproj$proj2)$vector
 
 
 ```{r, warning=FALSE}
-plot(as.numeric(tb), eig_genes[inds_match], log='xy', pch=19)
+plot(as.numeric(tb), eig_genes[inds_match], log='xy', pch=19,
+     ylab='Eigenvector centrality',xlab='Number of diseases')
 ```
 
 This is this time much less associated. What about correlation?
