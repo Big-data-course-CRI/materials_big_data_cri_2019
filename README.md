@@ -19,6 +19,10 @@ This course will provide an introduction to the field of big data, with a focus 
 
 Why focus on network data? Over the past century, network studies have had significant impact in disciplines as varied as mathematics, sociology, physics, biology, computer science or quantitative geography, giving birth to Network Science as a field of itself. With the recent rise of social networks in the last decade, their use has now become widespread in the digital world. Here we will provide an introduction to the field of Network Science,  from the theoretical foundations (generating, analysing, perturbing networks) to the practical hands-on part (analysis and visualisation of a real-world networks). 
 
+# Evaluation of the network theory course
+1. Reversed classroom topics https://docs.google.com/document/d/1fWYlafN2GUoiqX-tuVJpsXAeqlY3HqhVrY9SRSqxroM/edit?usp=sharing
+2. Projects (see github folder with template of notebook)
+
 ## Network topics will cover
 
 1.  How to construct networks from real data?
@@ -59,6 +63,7 @@ Students will then spend the last part of the course working on a research proje
     * Python: https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/
     * Cytoscape.js: https://blog.js.cytoscape.org/2016/05/24/getting-started/
     * D3.js: https://www.d3-graph-gallery.com/network
+    * PYthon package on statistics
 
 * Network databases
   * Index of Complex Networks (ICON): https://icon.colorado.edu/  5,000+ networks
