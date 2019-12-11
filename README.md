@@ -20,10 +20,10 @@ This course will provide an introduction to the field of big data, with a focus 
 Why focus on network data? Over the past century, network studies have had significant impact in disciplines as varied as mathematics, sociology, physics, biology, computer science or quantitative geography, giving birth to Network Science as a field of itself. With the recent rise of social networks in the last decade, their use has now become widespread in the digital world. Here we will provide an introduction to the field of Network Science,  from the theoretical foundations (generating, analysing, perturbing networks) to the practical hands-on part (analysis and visualisation of a real-world networks). 
 
 # Evaluation of the network theory course
-1. Reversed classroom topics https://docs.google.com/document/d/1fWYlafN2GUoiqX-tuVJpsXAeqlY3HqhVrY9SRSqxroM/edit?usp=sharing
-2. Projects (see github folder with template of notebook)
+1. Reversed classroom topics https://docs.google.com/document/d/1fWYlafN2GUoiqX-tuVJpsXAeqlY3HqhVrY9SRSqxroM/edit?usp=sharing on 11 December 2019
+2. Projects (see github folder with template of notebook) on 18 December 2019
 
-## Network topics will cover
+## Network topics of the course will cover
 
 1.  How to construct networks from real data?
 2.  How to analyze networks? (centrality measures, community detection, statistical analyses etc.)
