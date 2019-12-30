@@ -21,7 +21,8 @@ Why focus on network data? Over the past century, network studies have had signi
 
 # Evaluation of the network theory course
 1. Reversed classroom topics https://docs.google.com/document/d/1fWYlafN2GUoiqX-tuVJpsXAeqlY3HqhVrY9SRSqxroM/edit?usp=sharing on 11 December 2019
-2. Projects (see github folder with template of notebook) on 18 December 2019
+2. Projects (see github folder with template of notebook) on 18 December 2019 
+All projects from students are located in folders here https://github.com/Big-data-course-CRI
 
 ## Network topics of the course will cover
 
