@@ -42,6 +42,9 @@ Students will also contribute to the development of
 
 Students will then spend the last part of the course working on a research project developing and applying digital tools related to ‘big data’ and mental health, using the skills obtained from the first part of the course. 
 
+# Data management 
+(Loic)
+
 # Resources
 
 ## Introductory material on networks:
