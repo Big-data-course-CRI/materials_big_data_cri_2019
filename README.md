@@ -57,6 +57,7 @@ Students will then spend the last part of the course working on a research proje
   * BASIC 
     * Gephi: http://www.martingrandjean.ch/gephi-introduction/
   * INTERMEDIATE
+    * Github repo https://github.com/briatte/awesome-network-analysis
     * Cytoscape:  https://github.com/cytoscape/cytoscape-tutorials/wiki
   * ADVANCED
     * R: https://kateto.net/network-visualization 
